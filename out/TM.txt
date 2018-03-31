@@ -1,0 +1,3775 @@
+time;720.9757563
+relations;221.6239021
+Time;194.9698608
+intervals;182.3696399
+interval;179.5137567
+ontology;138.3280678
+features;129.5707195
+points;120.5302812
+properties;114.3165776
+theories;107.8338971
+ontologies;106.9422854
+OWL;105.5333623
+Ontology;102.4678002
+representation;95.38307206
+relation;88.60731458
+time points;88.37956863
+Semantic Web;81.38069278
+point;79.21044428
+temporal features;74.79683228
+Reasoning;70.83433518
+time intervals;69.77007815
+Interval;66.54212933
+theory;66.13221314
+structure;62.16853069
+Logic;59.7385484
+Artificial Intelligence;59.5743901
+time interval;57.76265953
+approach;55.93697747
+property;55.91387257
+structures;55.56905358
+reasoning;54.78413279
+set;53.282696
+time line;50.53616528
+community;50.53616528
+model;49.08785633
+language;47.82715546
+collection;46.48343656
+consistency;46.24512312
+information;46.03958924
+domain;45.60842285
+coverage;45.40114033
+analysis;45.05456674
+elements;44.2353928
+Ontologies;43.23743119
+Temporal Logic;42.95798875
+logic;39.56102223
+Information;39.4320556
+line;39.32034915
+Logics;39.23953238
+entities;39.13130901
+object;39.06035643
+values;38.74679852
+representations;38.58971537
+terms;38.42533016
+TIME;38.16930474
+objects;37.94524791
+review;37.88291449
+Systems;37.86416832
+papers;37.42786447
+temporal incidence;37.09310423
+SPARQL;36.85905194
+RDF;36.85844228
+TimeLine;36.8358216
+Representation;35.5073168
+part;34.12416889
+OWL-Time;33.96421185
+Temporal Reasoning;33.72100384
+logics;33.04800799
+models;32.91179236
+Relations;32.77526661
+clocks;31.65441729
+class;31.65227894
+concept;30.85657522
+support;30.81024403
+Computer Science;30.49847594
+number;30.04642802
+instants;29.97861556
+features of time;29.9439582
+knowledge;29.81947641
+TimeInterval;29.8188798
+aspects;29.18865224
+duration;29.11218158
+TIME community;29.02963063
+Table;28.96988242
+future;28.66815151
+Calendar;28.54506116
+query language;28.36986629
+date;28.32001338
+incidence;28.12447459
+example;27.24274209
+Point;26.87761314
+domains;26.78488088
+instant;26.75626455
+4D fluents;26.47972857
+time point;26.40297573
+granularity;26.376848
+languages;25.92725001
+Section;25.29683194
+systems;24.95841278
+concepts;24.9532985
+temporal logic;24.95108748
+Science;24.8103544
+semantics;24.16947035
+predicate;24.16947035
+beginning;24.16947035
+Intervals;24.01252574
+temporal information;23.96585819
+query;23.84894361
+Knowledge;23.8314358
+temporal properties;23.55551183
+taxonomy;23.39371734
+PSI;23.38474729
+section;23.35092179
+events;23.2928731
+temporal relations;23.12297406
+paper;23.06861008
+description;22.87223183
+periods;22.82021902
+research;22.6428079
+SWRL;22.4327633
+applications;22.36415985
+numbers;21.83743612
+sentiment;21.60604168
+reification;21.58105746
+Granularity;21.58105746
+system;21.50111363
+results;21.40501164
+Description;21.18140824
+temporal representation;21.16458596
+fluents;21.08069328
+value;20.92269286
+subject;20.9185341
+durations;20.87363348
+community sentiment;20.61107285
+Information Systems;20.61107285
+temporal reasoning;20.23260231
+Temporal Relations;20.23260231
+Description Logics;20.23260231
+Language;20.20028926
+Time-Interval;19.87835752
+temporal elements;19.83249341
+reviewed theories;19.83249341
+reasoning support;19.83249341
+functions;19.7750212
+Time-Point;19.57197329
+account;19.45910149
+Synthetic Theory;19.40812106
+theory of time;19.35308708
+Features;19.30910003
+sets;19.22730005
+constraints;19.18316218
+feature;18.81046477
+Engineering;18.76000419
+PSI-Time;18.71497388
+Theory;18.68549161
+function;18.4179108
+triple stores;17.9546455
+model of time;17.9546455
+difference;17.90899517
+calendar;17.82378464
+approaches;17.76279929
+predecessor;17.74442502
+event;17.70381704
+temporal structures;17.66663387
+instances;17.57779662
+problem;17.51319134
+present;17.51319134
+requirements;17.39434655
+ontologies of time;17.34223055
+Ontologies of Time;17.34223055
+theories of temporal incidence;17.00598691
+interval to interval relations;17.00598691
+analytical review;16.99928006
+taxonomy of temporal features;16.83647915
+past;16.63553233
+binary relations;16.63553233
+Temporal Description Logics;16.47918433
+data;16.28895874
+n-ary relations;16.24830121
+temporal logics;16.24830121
+document collection;16.19441439
+period;16.12583522
+means;16.09437912
+case;16.01940151
+Time ontology;15.90268602
+TIME community sentiment;15.89026915
+models of time;15.83434398
+branching time;15.83434398
+space;15.80175405
+complexity;15.78915492
+parts;15.77249154
+Temporal Representation;15.67747108
+classes;15.56728119
+comparison;15.4602142
+representation of time;15.45521227
+time instants;15.38969614
+k-consistency;15.38969614
+relationships;15.38969614
+end;15.12704613
+type;15.05119592
+discrete time;15.02327481
+fuzziness;15.01436795
+time lines;14.9668031
+contribution;14.9094399
+Temporal RDF;14.9094399
+SOWL;14.90266438
+Time Ontology;14.74845881
+Temporal Structures;14.7221949
+extent;14.69242765
+Duration;14.55609079
+origo;14.48494121
+temporal structure;14.45185879
+temporal intervals;14.45185879
+uncertainty;14.38737164
+time domain;14.38737164
+linear time;14.38737164
+impact;14.33407575
+aspect;14.21462512
+temporal theories;14.16606672
+Temporal Elements;14.16606672
+unboundedness;14.10722147
+Reusable Time;14.10722147
+year;13.86294361
+synthetic theory;13.86294361
+temporal aspects;13.86294361
+concrete domains;13.86294361
+theories of time;13.86294361
+querying support;13.86294361
+slice;13.68022226
+Terminology contribution peaks;13.60478953
+qualitative temporal relations;13.60478953
+density of time;13.54025101
+frameworks;13.43174638
+Structures;13.35499354
+opinion;13.23218901
+termhoods;13.18334746
+paper collection;13.16979643
+Temporal Logics;13.08890931
+constructs;12.89447652
+views;12.8755033
+clock;12.8755033
+range;12.8755033
+DOLCE;12.8755033
+point in time;12.82474679
+choice;12.54231628
+notion;12.54231628
+slices;12.09437642
+time structure;12.06426208
+datatype;12.06076094
+entity;11.94506313
+location;11.8825231
+termhood;11.8825231
+specification;11.79876704
+calculus;11.78350207
+temporal ontologies;11.77775592
+Temporal Properties;11.77775592
+Allen’s relations;11.77775592
+effort;11.64643655
+representativeness;11.56148703
+temporal distances;11.56148703
+asserted relations;11.56148703
+Constraint;11.51292546
+discussion;11.51292546
+occurrence;11.51292546
+normalized scores;11.33285338
+implied relations;11.33285338
+Performance;11.30436343
+ordering;11.22898433
+level;11.16547552
+AAAI;11.09035489
+SUMO;11.09035489
+set of relations;11.09035489
+expressive power;11.09035489
+annotation;11.05240845
+evolution;10.98612289
+temporal extent;10.8322008
+temporal region;10.8322008
+Temporal Region;10.8322008
+Formal Ontology;10.8322008
+real numbers;10.76792882
+Events;10.75055682
+reason;10.75055682
+expressiveness;10.55622932
+classification;10.55622932
+change;10.52658688
+Performance Simulation Initiative;10.48952268
+lines;10.46134643
+Workshop;10.39720771
+Instants;10.39720771
+Regular-Non-Convex-Time-Interval;10.39720771
+Points;10.39220492
+structuring of time;10.30553643
+TimeIntervals;10.25979743
+OWL semantics;10.25979743
+operators;10.25371469
+formal representations of time;10.20359214
+times;10.19310678
+validity;10.05063412
+Allen’s interval relations;9.996613531
+date formats;9.939626599
+decidability;9.939626599
+propositions;9.939626599
+Applications;9.939626599
+thd;9.887510598
+mapping;9.729550745
+episode;9.729550745
+PSI-ULO;9.729550745
+Present;9.729550745
+Instant;9.729550745
+Notes;9.656627475
+month;9.656627475
+combination;9.591581091
+periodicity;9.591581091
+application;9.591581091
+definitions;9.591581091
+unbounded time intervals;9.534161491
+proliferation of objects;9.534161491
+linearity;9.521306502
+citations;9.521306502
+Temporal Ontology;9.44404448
+Foundational Ontologies;9.406482648
+start;9.388387823
+work;9.357486938
+position;9.357486938
+measures;9.357486938
+interval relations;9.313420109
+term;9.307976425
+Semantic Web standards;9.27312736
+SWRL Temporal Ontology;9.27312736
+Cadence Design Systems;9.27312736
+concise representation;9.27312736
+situation;9.228343225
+point zero;9.210340372
+valid time;9.210340372
+importance;9.210340372
+periodic subintervals;9.133567313
+qualitative relations;9.133567313
+types;9.12014817
+Level;9.01285231
+basic theory of time;8.987196821
+basic models of time;8.987196821
+Temporal Information;8.987196821
+taxonomy of features;8.987196821
+comparative analysis;8.987196821
+axioms;8.958797346
+time model;8.922517235
+Distributed Systems;8.833316937
+proper subintervals;8.833316937
+reasoning mechanism;8.833316937
+use;8.788898309
+BFO;8.788898309
+chronoids;8.788898309
+fragments;8.788898309
+behaviour;8.788898309
+ValidTime;8.788898309
+positions;8.788898309
+mechanism;8.788898309
+situation calculus;8.671115274
+description logics;8.671115274
+Temporal relations;8.671115274
+W3C;8.514245237
+Temporal Segments;8.499640032
+basic time theory;8.499640032
+temporal measures;8.499640032
+TimeLine ontology;8.499640032
+PSI-Time ontology;8.499640032
+First Order Logic;8.499640032
+Temporal Features;8.499640032
+metric time;8.392633455
+nature;8.36154419
+form;8.317766167
+list;8.317766167
+RDFS;8.317766167
+Data;8.317766167
+zero;8.317766167
+reasoner;8.317766167
+subclass;8.317766167
+segments;8.317766167
+Location;8.317766167
+Ontology of Time;8.317766167
+Cyc;8.239592165
+Descriptive Ontology for Linguistic and Cognitive Engineering;8.221747728
+Fuzzy Relations;8.124150603
+time structures;8.124150603
+basic relations;8.124150603
+aspects of time;8.124150603
+instant of time;8.124150603
+Crisp Relations;8.124150603
+document corpus;8.124150603
+non-metric time;8.124150603
+Design;8.062917612
+region;8.062917612
+anisotropy;8.059047825
+focus;8.047189562
+dates;8.047189562
+years;8.047189562
+temporal slice;7.917171989
+amount of time;7.917171989
+view;7.855668046
+decades;7.783640596
+project;7.783640596
+CHRONOS;7.783640596
+company;7.783640596
+authors;7.783640596
+description logic;7.726945484
+SWRL-Temporal;7.694848072
+scale factors;7.694848072
+OWL reasoners;7.694848072
+ancient times;7.694848072
+granularities;7.694848072
+n-consistency;7.694848072
+time elements;7.694848072
+ACM;7.690286021
+OntoElect;7.690286021
+ontology of socio-cultural time expressions;7.522400231
+AKT;7.470563563
+compositions;7.454719949
+restrictions;7.454719949
+alternatives;7.454719949
+Named graphs;7.454719949
+basic theory;7.454719949
+semantic web;7.454719949
+Named Graphs;7.454719949
+bag of terms;7.454719949
+complete possible history of the universe;7.427144133
+Quantified Propositional Temporal Logic;7.327123292
+standards;7.324081924
+Computation;7.193685818
+Mathematics;7.193685818
+performance;7.193685818
+boundedness;7.193685818
+date values;7.193685818
+Reification;7.193685818
+Periodicity;7.193685818
+communities;7.193685818
+temporal part;7.181858201
+motion;7.167037877
+stores;7.167037877
+Models;7.167037877
+Survey;7.167037877
+Triple;7.167037877
+Future;7.167037877
+result;7.167037877
+mixed point-interval-based framework;7.167037877
+version;7.13500388
+engineering;6.975695339
+fact;6.931471806
+querying;6.931471806
+boundaries;6.907755279
+assumption;6.907755279
+assertions;6.907755279
+experiment;6.907755279
+definition;6.907755279
+subclasses;6.907755279
+hypothesis;6.907755279
+ontology specification language;6.867974409
+parallel independent time lines;6.867974409
+qualitatively defined intervals;6.867974409
+non-convexity of time intervals;6.867974409
+Suggested Upper Merged Ontology;6.867974409
+absolutist structuring of time;6.802394763
+Qualitative Temporal Reasoning;6.802394763
+continuous time;6.770125503
+Qualitative Spatial Reasoning;6.73459166
+totally ordered set of states;6.73459166
+theory of temporal incidence;6.66440902
+temporal aggregates ontology;6.66440902
+Applied Non-Classical Logics;6.66440902
+document;6.654212933
+N-ary relation;6.597643324
+starting point;6.597643324
+knowledge base;6.597643324
+day;6.591673732
+way;6.591673732
+fuzzy set;6.591673732
+dimension;6.591673732
+Framework;6.591673732
+technique;6.591673732
+Symposium;6.591673732
+arguments;6.591673732
+automaton;6.591673732
+ISO 15926;6.591673732
+date line;6.591673732
+term list;6.591673732
+databases;6.591673732
+extension;6.591673732
+reasoners;6.591673732
+fuzziness in time intervals;6.591673732
+ordered triples of integers;6.591673732
+Allen’s Interval Calculus;6.591673732
+temporal incidence theories;6.591673732
+Periodic Temporal Elements;6.516193076
+First Order Temporal Logic;6.516193076
+reals;6.43775165
+world;6.43775165
+scope;6.43775165
+Order;6.43775165
+cases;6.43775165
+needs;6.43775165
+label;6.43775165
+cross-disciplinary effort;6.43775165
+successor-forming symbols;6.43775165
+relaxed linearity of time;6.43775165
+metric;6.429254566
+Interval Temporal Logics;6.356107661
+temporal representations;6.356107661
+Allen's Interval Algebra;6.356107661
+knowledge representation;6.356107661
+terminological footprint;6.356107661
+TIME document collection;6.356107661
+Synthetic Theory of time;6.356107661
+nonnegative real numbers;6.356107661
+PSI Upper-Level Ontology;6.356107661
+scores;6.271158142
+PSI Suite of Ontologies;6.270988432
+General Formal Ontology;6.270988432
+Research;6.238324625
+infinity;6.238324625
+interest;6.238324625
+dateTime;6.238324625
+mappings;6.238324625
+distance;6.238324625
+operator;6.238324625
+Cyc Time;6.238324625
+order;6.207831948
+Reusable Time ontology;6.182084907
+Linguistic Engineering;6.182084907
+theoretical frameworks;6.182084907
+point-based structures;6.182084907
+segment of a time line;6.182084907
+periodic sub-intervals;6.182084907
+states;6.143175323
+Qualitative Reasoning;6.089044875
+TIME paper collection;6.089044875
+Basic Formal Ontology;6.089044875
+philosophical thought;6.089044875
+Metric Temporal Logic;6.089044875
+closed time intervals;6.089044875
+OntoElect methodology;6.089044875
+relativist approaches;6.089044875
+absolutist approaches;6.089044875
+operation;6.042367588
+syntactical variants;5.991464547
+ranges of properties;5.991464547
+Pair-wise comparison;5.991464547
+Time Markup Language;5.991464547
+Temporal Constraints;5.991464547
+continuous time line;5.991464547
+AKT Support Ontology;5.991464547
+intermediate objects;5.991464547
+materialized product;5.991464547
+indirect predecessor;5.991464547
+Query;5.977912246
+Month;5.901272346
+4D fluents approach;5.888877958
+distributed systems;5.888877958
+termhood difference;5.888877958
+temporal modalities;5.888877958
+computer scientists;5.888877958
+DateTimeDescription;5.888877958
+comparative summary;5.888877958
+branching structure;5.888877958
+calendar structures;5.888877958
+DurationDescription;5.888877958
+reference durations;5.888877958
+interval structures;5.888877958
+fuzzy time interval;5.888877958
+Temporal Ontologies;5.888877958
+undefined intervals;5.888877958
+parallel time lines;5.888877958
+language constructs;5.888877958
+number of citations;5.888877958
+unique contribution;5.888877958
+Clinical Narratives;5.888877958
+sequences;5.85926554
+program;5.837730447
+density;5.837730447
+OWL-MeT;5.837730447
+purpose;5.837730447
+minutes;5.837730447
+Project;5.837730447
+actions;5.837730447
+context;5.837730447
+factors;5.837730447
+summary;5.837730447
+choices;5.837730447
+scientific thought;5.780743516
+pairs of relations;5.780743516
+set of time points;5.780743516
+professional texts;5.780743516
+temporal operators;5.780743516
+Temporal Locations;5.780743516
+fundamental aspect;5.780743516
+TemporalAggregates;5.780743516
+existing relations;5.780743516
+Temporal Knowledge;5.780743516
+incremental slices;5.780743516
+hyper-real numbers;5.780743516
+Cyc knowledge base;5.780743516
+comparative review;5.780743516
+characteristic set;5.780743516
+continuity of time;5.780743516
+anisotropy of time;5.780743516
+inverse properties;5.780743516
+AKT Time Ontology;5.666426688
+Computer Sciences;5.666426688
+temporal ontology;5.666426688
+Cognitive Science;5.666426688
+temporal ordering;5.666426688
+ternary relations;5.666426688
+temporal entities;5.666426688
+community members;5.666426688
+relaxed linearity;5.666426688
+temporal location;5.666426688
+usability aspects;5.666426688
+initial situation;5.666426688
+OWL-Time ontology;5.666426688
+special intervals;5.666426688
+Temporal Distance;5.666426688
+Temporal Location;5.666426688
+Past;5.545177444
+days;5.545177444
+TOWL;5.545177444
+object properies;5.545177444
+temporal content;5.545177444
+temporal periods;5.545177444
+Features of Time;5.545177444
+set of sequences;5.545177444
+Querying support;5.545177444
+Temporal Periods;5.545177444
+path consistency;5.545177444
+calendar systems;5.545177444
+specific concept;5.545177444
+reference;5.493061443
+framework;5.493061443
+element;5.448548417
+physical clocks;5.416100402
+relativist view;5.416100402
+starting points;5.416100402
+fuzzy extension;5.416100402
+Allen relations;5.416100402
+Infinite-Future;5.416100402
+N-ary Relations;5.416100402
+interior points;5.416100402
+set of features;5.416100402
+System Sciences;5.416100402
+Temporal Theory;5.416100402
+time properties;5.416100402
+Feature of Time;5.416100402
+time boundaries;5.416100402
+correspondences;5.416100402
+sets of periods;5.416100402
+Calculus;5.406548008
+person;5.375278408
+months;5.375278408
+syntax;5.375278408
+signal;5.375278408
+column;5.375278408
+OWL-DL;5.375278408
+PROTON;5.375278408
+delays;5.375278408
+subset;5.375278408
+Annals;5.375278408
+TimeML;5.375278408
+Simulation;5.37269855
+SWRL build-ins;5.278114659
+Starting-Point;5.278114659
+interpretation;5.278114659
+Google Scholar;5.278114659
+OWL-Time-Entry;5.278114659
+implementation;5.278114659
+OWL constructs;5.278114659
+state variable;5.278114659
+time branching;5.278114659
+Expressiveness;5.278114659
+Query Language;5.278114659
+time-intervals;5.278114659
+temporalExtent;5.278114659
+total ordering;5.278114659
+axiomatization;5.278114659
+Temporal Slice;5.278114659
+undecidability;5.278114659
+direct support;5.278114659
+nature of time;5.278114659
+Calendar Logic;5.278114659
+Day;5.218408371
+Elements;5.198603854
+structuring;5.195439758
+content;5.189093731
+Time-Quantity;5.129898715
+set of points;5.129898715
+ending points;5.129898715
+SWRL Ontology;5.129898715
+SOWL ontology;5.129898715
+Time instants;5.129898715
+time quantity;5.129898715
+inconsistency;5.129898715
+time theories;5.129898715
+whole of time;5.129898715
+partial order;5.129898715
+disadvantages;5.129898715
+Infinite-Past;5.129898715
+standard time;5.129898715
+digital music;5.129898715
+Applied Logic;5.129898715
+interval sets;5.129898715
+W3C compliant;5.129898715
+physical time;5.129898715
+compatibility;5.129898715
+Span;5.083079324
+Computer;4.9906597
+developments;4.9698133
+named graphs;4.9698133
+philosophers;4.9698133
+completeness;4.9698133
+part of time;4.9698133
+partitioning;4.9698133
+local clocks;4.9698133
+expressivity;4.9698133
+introduction;4.9698133
+modal logics;4.9698133
+time formats;4.9698133
+disjunctions;4.9698133
+TemporalPart;4.9698133
+Web services;4.9698133
+Ending-Point;4.9698133
+relationship;4.9698133
+Hebrand time;4.9698133
+registration;4.9698133
+TimeInstants;4.9698133
+special case;4.9698133
+Related work;4.9698133
+Partitioning;4.9698133
+satisfaction;4.9698133
+root concept;4.9698133
+System;4.92733854
+triples;4.864775373
+Feature;4.864775373
+ending;4.863347131
+arity;4.828313737
+hours;4.828313737
+group;4.828313737
+Rules;4.828313737
+speed;4.828313737
+forms;4.828313737
+field;4.828313737
+Model;4.828313737
+sense;4.828313737
+table;4.828313737
+individuals;4.795790546
+aggregation;4.795790546
+time values;4.795790546
+recognition;4.795790546
+assumptions;4.795790546
+Linear Time;4.795790546
+imprecision;4.795790546
+Foundations;4.795790546
+occurrences;4.795790546
+Span entity;4.795790546
+Application;4.795790546
+Uncertainty;4.795790546
+consequence;4.795790546
+requirement;4.795790546
+conjunction;4.795790546
+ValidPeriod;4.795790546
+data mining;4.795790546
+new version;4.795790546
+proceedings;4.795790546
+restriction;4.795790546
+development;4.795790546
+Time points;4.795790546
+TIME papers;4.795790546
+Time-Points;4.795790546
+TimeInstant;4.795790546
+time-points;4.795790546
+measurement;4.795790546
+concurrency;4.795790546
+time-entity;4.795790546
+Anisotropy;4.605170186
+categories;4.605170186
+attributes;4.605170186
+components;4.605170186
+Annotation;4.605170186
+algorithms;4.605170186
+Timestamps;4.605170186
+constraint;4.605170186
+data types;4.605170186
+versioning;4.605170186
+SWRL rules;4.605170186
+Management;4.605170186
+lower part;4.605170186
+time stamp;4.605170186
+durationOf;4.605170186
+happenings;4.605170186
+Philosophy;4.605170186
+OWL syntax;4.605170186
+phenomenon;4.605170186
+Principles;4.605170186
+situations;4.605170186
+Pure Logic;4.605170186
+foundation;4.605170186
+dense time;4.605170186
+Enterprise;4.605170186
+saturation;4.605170186
+predicates;4.605170186
+major gaps;4.605170186
+thing;4.560074085
+formats;4.540457014
+Convex-Time-Interval;4.49359841
+graphs;4.479398673
+eps;4.394449155
+algorithm;4.394449155
+timepoint;4.394449155
+direction;4.394449155
+Fuzziness;4.394449155
+TimeLines;4.394449155
+timestamp;4.394449155
+Timed PTL;4.394449155
+continuum;4.394449155
+selection;4.394449155
+chronsets;4.394449155
+necessity;4.394449155
+Calendars;4.394449155
+chronicle;4.394449155
+Protege;4.394449155
+WonderWeb;4.394449155
+Web pages;4.394449155
+existence;4.394449155
+rationals;4.394449155
+frequency;4.394449155
+assertion;4.394449155
+solutions;4.394449155
+attention;4.394449155
+Web;4.336627455
+graph;4.291834433
+Knowledge-Based and Intelligent Information and Engineering Systems;4.204692619
+World;4.184538572
+rules;4.184538572
+ends;4.158883083
+sort;4.158883083
+IEEE;4.158883083
+rdfs;4.158883083
+TOQL;4.158883083
+need;4.158883083
+emphasis;4.158883083
+Handbook;4.158883083
+overview;4.158883083
+C-SPARQL;4.158883083
+Reasoner;4.158883083
+AKT Time;4.158883083
+examples;4.158883083
+unitType;4.158883083
+Approach;4.158883083
+openness;4.158883083
+majority;4.158883083
+proposal;4.158883083
+sequence;4.158883083
+Business;4.158883083
+TimeZone;4.158883083
+T-SPARQL;4.158883083
+sections;4.158883083
+response;4.158883083
+Planning;4.158883083
+versions;4.158883083
+advances;4.158883083
+Overview;4.158883083
+addition;4.158883083
+argument;4.158883083
+t-SPARQL;4.158883083
+significance;4.141511083
+International Symposium on Time Representation and Reasoning;4.094344562
+worst case;4.029523913
+texts;4.023594781
+standard;4.010351545
+parameterized operator of relative temporal realization;4.007333185
+Constraints;3.996492121
+Upper Ontology;3.958585994
+propositions over fluents and events throughout time;3.951243719
+process;3.891820298
+thought;3.891820298
+members;3.891820298
+formula;3.891820298
+Quality;3.891820298
+Physics;3.891820298
+Process;3.891820298
+Company;3.891820298
+subsets;3.891820298
+Density;3.891820298
+Library;3.891820298
+Actions;3.891820298
+changes;3.891820298
+Ontology of Environments Events and Happenings;3.871201011
+DAML;3.812309493
+prototype temporal description logic reasoner;3.80666249
+fuzzy relations between points and intervals;3.784189634
+modelling hybrid discrete/continuous systems;3.784189634
+WonderWeb Library of Foundational Ontologies;3.784189634
+four-dimensional block universe theory;3.784189634
+Propositional Modal Logic of Time Intervals;3.761200116
+TIME proceedings series document collection;3.761200116
+quantitatively defined temporal information;3.761200116
+Querying;3.742994775
+Propositional interval neighborhood logics;3.737669618
+OntoElect rule of 50 percent plus one vote;3.737669618
+quantitatively defined temporal intervals;3.713572067
+Automatic recognition of multi-word terms;3.713572067
+Propositional Interval Neighborhood logic;3.713572067
+family of non-standard “tense” logics;3.713572067
+propositions over fluents throughout time;3.713572067
+SOWL spatio-temporal representation model;3.713572067
+Qualitative Temporal Constraint Reasoning;3.713572067
+Uncertain interval to interval relations;3.688879454
+branching discrete time over time points;3.688879454
+propositions over events throughout time;3.688879454
+closed under addition and multiplication;3.688879454
+infinite unbounded and continuous time;3.688879454
+taxonomy of high-level temporal features;3.688879454
+the largest contiguous interval of time;3.663561646
+aspect for formally representing change;3.663561646
+characteristic set of temporal features;3.663561646
+four-dimensional manifold of space-time;3.663561646
+needs of the basic and applied research;3.663561646
+threshold;3.662040962
+representation of temporal information;3.63758616
+mutually exclusive primitive relations;3.63758616
+consensual set of the features of time;3.63758616
+totally ordered convex sets of states;3.610917913
+maximally strongly connected boundary;3.610917913
+uncertain beginnings of TimeIntervals;3.610917913
+revolution of the celestial sphere(s);3.610917913
+linear discrete time over time points;3.610917913
+Formal theories of temporal incidence;3.610917913
+methodology;3.596842909
+Qualia;3.583518938
+Agents;3.583518938
+NaCTeM;3.583518938
+minute;3.583518938
+Clocks;3.583518938
+MUSING;3.583518938
+Action;3.583518938
+Labels;3.583518938
+Domain;3.583518938
+GFO-BT;3.583518938
+method;3.583518938
+second;3.583518938
+debate;3.583518938
+matter;3.583518938
+progress beyond the state-of-the-art;3.583518938
+the most prominent temporal theories;3.583518938
+typed first-order predicate calculus;3.583518938
+beginning instants of a TimeInterval;3.583518938
+regular periodic temporal structures;3.583518938
+Fuzzy interval to interval relations;3.583518938
+Crisp Interval to Interval Relations;3.583518938
+SPARQL-based temporal query language;3.583518938
+Second Generation RDF Query Language;3.583518938
+isomorphic to the non-negative reals;3.583518938
+dynamic engineering design processes;3.583518938
+Fuzzy Interval to Interval Relations;3.583518938
+Biomedical engineering technologies;3.555348061
+taxonomy of the temporal properties;3.555348061
+Knowledge-Based Engineering Systems;3.555348061
+Knowledge-Based Information Systems;3.555348061
+temporal Entity Relationship models;3.555348061
+Temporal Entity-Relationship Models;3.555348061
+infinite sequence of time intervals;3.555348061
+Temporal Ontology Querying Language;3.555348061
+knowledge representation formalisms;3.555348061
+relativist view on time structuring;3.555348061
+Artificial Intelligence communities;3.555348061
+Semantic Web Information Management;3.555348061
+Propositional Linear Temporal Logic;3.555348061
+absolutist view on time structuring;3.555348061
+reification of properties’ labels;3.555348061
+infinity and unboundedness of time;3.526360525
+interval to interval relationships;3.526360525
+representative community sentiment;3.526360525
+Dynamic Engineering Design Process;3.526360525
+interval-based temporal structures;3.526360525
+knowledge representation languages;3.526360525
+set of extracted temporal features;3.526360525
+relative termhood difference value;3.526360525
+interval-to-interval relationships;3.526360525
+absolute termhood difference value;3.526360525
+axiomatic characterization of time;3.526360525
+taxonomy of the temporal relations;3.526360525
+temporal object-oriented databases;3.526360525
+Temporal Representation Frameworks;3.526360525
+consistency of temporal assertions;3.526360525
+Agent-Oriented Information Systems;3.526360525
+uncertain endings of TimeIntervals;3.526360525
+temporal representation approaches;3.526360525
+Temporal Interval-Based Structures;3.526360525
+valid time of the temporal entity;3.496507561
+descriptive formal theory of time;3.496507561
+ending instants of a TimeInterval;3.496507561
+Constraint Propagation Algorithms;3.496507561
+infinite cycle of birth and death;3.496507561
+situation calculus based reasoner;3.496507561
+fuzzy relations between intervals;3.496507561
+Constraint Linear Temporal Logics;3.496507561
+taxonomy of the Temporal Features;3.496507561
+coverage of the temporal features;3.496507561
+implicit opinion of the community;3.496507561
+relation between evolving classes;3.496507561
+periodic time interval structures;3.496507561
+General Theory of Action and Time;3.496507561
+Temporal annotation of properties;3.496507561
+“smooth” time representations;3.496507561
+temporal annotation of ontologies;3.496507561
+bounded and cyclic nature of time;3.496507561
+Interval-based Temporal Reasoning;3.496507561
+Interval-Based Temporal Knowledge;3.496507561
+Metric First Order Temporal Logic;3.496507561
+Interoperable Semantic Annotation;3.496507561
+quantity;3.465735903
+High-Performance Knowledge Bases;3.465735903
+Time-Dependent Factual Knowledge;3.465735903
+Hayes/ten Horst Entailment Rules;3.465735903
+Harmonized Semantic Web Ontology;3.465735903
+HPKB-Upper-Level-Kernel ontology;3.465735903
+Qualitative Temporal Information;3.465735903
+Allen’s time interval calculus;3.465735903
+temporal logic of branching time;3.465735903
+ontology engineering methodology;3.465735903
+symmetric and transitive closure;3.465735903
+polynomial worst case complexity;3.465735903
+forward-branching time structure;3.465735903
+properties of the temporal space;3.465735903
+exponential worst case algorithm;3.465735903
+scientists;3.453877639
+possible irregularity of timing;3.433987204
+“before – after” ordering;3.433987204
+Indefinite Temporal Information;3.433987204
+theoretical temporal frameworks;3.433987204
+Temporalized description logics;3.433987204
+Temporally Changing Information;3.433987204
+Intelligent Engineering Systems;3.433987204
+Intelligent Information Systems;3.433987204
+aspect for understanding change;3.433987204
+collection of scientific papers;3.433987204
+Advanced Knowledge Technologies;3.433987204
+application specific SWRL rules;3.433987204
+properties of temporal contexts;3.433987204
+point-to-interval relationships;3.433987204
+Knowledge Representation System;3.433987204
+scientific knowledge management;3.433987204
+RDF ontological representations;3.433987204
+existing basic theories of time;3.433987204
+High Performance Knowledge Base;3.433987204
+Temporal Point-Based Structures;3.433987204
+streaming time-stamped RDF data;3.433987204
+large expressive knowledge sets;3.433987204
+taxonomy of high-level features;3.433987204
+OWL ontological representations;3.433987204
+Temporal Information Processing;3.433987204
+n-ary based temporal ontologies;3.433987204
+constraint satisfaction problem;3.433987204
+natural branching model of time;3.433987204
+concurrent execution frameworks;3.433987204
+subset of the temporal features;3.433987204
+frequencies of term occurrence;3.401197382
+temporally-related collections;3.401197382
+Reification of N-ary relations;3.401197382
+Dynamics of Online Communities;3.401197382
+subset of the features of time;3.401197382
+spatio-temporal query language;3.401197382
+Biomedical engineering systems;3.401197382
+transitive precedence relation;3.401197382
+Automatic recognition of terms;3.401197382
+Temporal Integrity Constraints;3.401197382
+aspect for representing change;3.401197382
+beginnings of TemporalEntities;3.401197382
+temporal constraint propagator;3.401197382
+temporal context of a property;3.401197382
+Engineering Design Performance;3.401197382
+models and ontologies of time;3.401197382
+Logic-based Calculus of Events;3.401197382
+real-time and embedded systems;3.401197382
+logical representation of time;3.401197382
+Interval to Interval Relations;3.401197382
+relativist structuring of time;3.401197382
+periodicity in time structures;3.401197382
+infinite number of repetitions;3.401197382
+requirements elicitation phase;3.401197382
+Qualitative temporal reasoning;3.401197382
+richly axiomatized definitions;3.401197382
+Enterprise Information Systems;3.401197382
+immediate predecessor function;3.401197382
+implemented ontologies of time;3.401197382
+distributed real-time systems;3.36729583
+linear non-metric time domain;3.36729583
+domain-independent properties;3.36729583
+Infinite Temporal Information;3.36729583
+Pair-wise termhood difference;3.36729583
+important subject of research;3.36729583
+uncertainty in time intervals;3.36729583
+isolated jump discontinuities;3.36729583
+interval-based time structure;3.36729583
+specialized temporal reasoner;3.36729583
+Subjective Temporal Knowledge;3.36729583
+formal representation of time;3.36729583
+adequately deep model of time;3.36729583
+interpretation of the results;3.36729583
+General Philosophy of Science;3.36729583
+Explicit clock temporal logic;3.36729583
+Ontology Engineering Patterns;3.36729583
+pair-wise termhood comparison;3.36729583
+adequately rich model of time;3.36729583
+ordered point-based structure;3.36729583
+Temporal terminological logic;3.36729583
+temporal classes constructors;3.36729583
+qualitative reasoning support;3.36729583
+qualitative spatial relations;3.36729583
+Temporal Reasoning Frameworks;3.36729583
+Layered Metric Temporal Logic;3.36729583
+quantifiable aspect of motion;3.36729583
+forward-branching time domain;3.36729583
+needs of the applied research;3.36729583
+nearlySimultaneously relation;3.36729583
+Upper-Level Ontological Model;3.36729583
+temporal relational databases;3.36729583
+granular time representations;3.36729583
+absolutist treatment of time;3.33220451
+boundedness at the beginning;3.33220451
+periods of chronometric time;3.33220451
+time closed at the beginning;3.33220451
+point-to-point relationships;3.33220451
+Uncertain Temporal Knowledge;3.33220451
+Knowledge Systems Laboratory;3.33220451
+uncertainty in time instants;3.33220451
+Temporal Logics constructors;3.33220451
+duration of a temporal-thing;3.33220451
+hierarchy of temporal logics;3.33220451
+distributed run-time systems;3.33220451
+number of citations per year;3.33220451
+high-level temporal features;3.33220451
+interval temporal structures;3.33220451
+Propositional Temporal Logic;3.33220451
+Primitive temporal structure;3.33220451
+Physical-Quantities ontology;3.33220451
+time interval-based calculus;3.33220451
+detailed comparative account;3.33220451
+positively infinite interval;3.33220451
+negatively infinite interval;3.33220451
+score significance threshold;3.33220451
+set of qualitative relations;3.33220451
+Distributed Object Computing;3.33220451
+relativist treatment of time;3.33220451
+specific domains of interest;3.33220451
+High-level temporal features;3.33220451
+IEEE Standard Upper Ontology;3.33220451
+temporal querying approaches;3.33220451
+temporal axioms constructors;3.33220451
+temporal periodic structures;3.33220451
+temporal employment relation;3.33220451
+imp;3.295836866
+terminological contribution;3.295836866
+time periodicity discussion;3.295836866
+term significance threshold;3.295836866
+temporal roles constructors;3.295836866
+distinguished point of time;3.295836866
+Upper-Level-Kernel ontology;3.295836866
+first-order temporal logics;3.295836866
+set of the features of time;3.295836866
+flow of the reality in time;3.295836866
+Spatio-Temporal Information;3.295836866
+high-level features of time;3.295836866
+indeterminism of the future;3.295836866
+Propositional dynamic logic;3.295836866
+instantaneous temporal part;3.295836866
+Propositional Dynamic Logic;3.295836866
+High-Level Features of Time;3.295836866
+Open Descriptions of Events;3.295836866
+feature of TemporalModality;3.295836866
+Ontology evolution analysis;3.295836866
+Natural Language Processing;3.295836866
+quantitative representation;3.295836866
+needs of the basic research;3.295836866
+non-standard query language;3.295836866
+Meaningful Internet Systems;3.295836866
+paper collection increments;3.295836866
+Linear-time temporal logics;3.295836866
+Interval Description Logics;3.295836866
+point to interval relations;3.295836866
+Interval-Interval Relations;3.295836866
+Natural language processing;3.295836866
+faster querying performance;3.295836866
+Representation of Knowledge;3.295836866
+Annotated Semantic Web Data;3.295836866
+concept of a temporal-thing;3.295836866
+Temporal description logics;3.295836866
+description logic languages;3.295836866
+canonical coordinate system;3.295836866
+Automata-Theoretic Approach;3.295836866
+common indirect predecessor;3.295836866
+temporal description logics;3.295836866
+closed under multiplication;3.295836866
+sufficient expressive power;3.295836866
+standard description logics;3.295836866
+distributed digital systems;3.295836866
+temporal feature extraction;3.295836866
+structure of a TimeInterval;3.295836866
+accumulation of constraints;3.295836866
+domain-independent property;3.295836866
+linear time over intervals;3.258096538
+maximal decidable fragment;3.258096538
+metric temporal modalities;3.258096538
+numerable aspect of motion;3.258096538
+fuzziness in time instants;3.258096538
+Allen’s interval algebra;3.258096538
+interval based information;3.258096538
+fuzzy membership functions;3.258096538
+temporal incidence aspects;3.258096538
+general-purpose ontologies;3.258096538
+temporal parthood relation;3.258096538
+AKTive Portal demonstrator;3.258096538
+periodic intervals of time;3.258096538
+Maximal Tractable Subclass;3.258096538
+UniformSamplingMap concept;3.258096538
+term recognition technique;3.258096538
+reviewed temporal theories;3.258096538
+Temporal Ontology Language;3.258096538
+SPARQL-like query language;3.258096538
+requested features of time;3.258096538
+Polynomial time algorithms;3.258096538
+starting point of validity;3.258096538
+Linear-time Temporal Logic;3.258096538
+special purpose mechanisms;3.258096538
+OWL reasoning capabilities;3.258096538
+temporal thing with extent;3.258096538
+OWL object property axioms;3.258096538
+representation constraints;3.258096538
+Computational Intelligence;3.258096538
+Computer-aided engineering;3.258096538
+prominent theories of time;3.258096538
+properties of the relation;3.258096538
+comprehensive basic theory;3.258096538
+collection slice increment;3.258096538
+standard datatype property;3.258096538
+real-time calendar systems;3.258096538
+First-Order Temporal Logic;3.258096538
+reified temporal relations;3.258096538
+termhood difference metric;3.258096538
+Description Logic Handbook;3.258096538
+IJCAI;3.218875825
+Tools;3.218875825
+basis;3.218875825
+SeRQL;3.218875825
+Scale;3.218875825
+tense;3.218875825
+topic;3.218875825
+frame;3.218875825
+facts;3.218875825
+Suite;3.218875825
+power;3.218875825
+units;3.218875825
+cells;3.218875825
+Press;3.218875825
+lunch;3.218875825
+issue;3.218875825
+Dates;3.218875825
+Delay;3.218875825
+names;3.218875825
+continuous query language;3.218875825
+path consistency checking;3.218875825
+disjunctions of relations;3.218875825
+precision of measurements;3.218875825
+philosophical distinction;3.218875825
+characteristic properties;3.218875825
+Asian Language Processing;3.218875825
+feature coverage analysis;3.218875825
+Complexity Classification;3.218875825
+extracted set of features;3.218875825
+family of temporal logics;3.218875825
+dense time representation;3.218875825
+consistency of assertions;3.218875825
+general purpose technique;3.218875825
+date comparison operation;3.218875825
+Base upper-level ontology;3.218875825
+has-start-time properties;3.218875825
+numerical representations;3.218875825
+body of scholarly sources;3.218875825
+Temporally Extended Goals;3.218875825
+“parallel” time lines;3.218875825
+unbounded domains of time;3.218875825
+Intelligent Data Analysis;3.218875825
+separate aspect of nature;3.218875825
+Interval-Based Structures;3.218875825
+length of a time interval;3.218875825
+underlying representation;3.218875825
+set of interval relations;3.218875825
+RDF graph of the ontology;3.218875825
+4D fluents based approach;3.218875825
+static views of the world;3.218875825
+representations of clocks;3.218875825
+temporal incidence theory;3.218875825
+beginning of the interval;3.218875825
+all possible disjunctions;3.218875825
+operators of satisfaction;3.218875825
+infinitely small duration;3.218875825
+infinitesimal differences;3.218875825
+non-standard tense theory;3.218875825
+relaxed linear time model;3.218875825
+Epistemological Positions;3.218875825
+World Wide Web Consortium;3.218875825
+non-convex time intervals;3.218875825
+OWL-compatible approaches;3.218875825
+time point of the present;3.218875825
+relevant temporal feature;3.218875825
+signal propagation delays;3.218875825
+Approximation Algorithms;3.17805383
+Approximation algorithms;3.17805383
+Computational Tree Logic;3.17805383
+Interval-Point Relations;3.17805383
+High Quality Data Models;3.17805383
+Knowledge Infrastructure;3.17805383
+standardized time domain;3.17805383
+AbstractTimeLine concept;3.17805383
+Knowledge Representation;3.17805383
+First Order Logic axioms;3.17805383
+Abstract phenomenal time;3.17805383
+Graphical representation;3.17805383
+temporal query languages;3.17805383
+n-ary relations approach;3.17805383
+fuzziness in time points;3.17805383
+University of Manchester;3.17805383
+cyclic character of time;3.17805383
+Vague Temporal Knowledge;3.17805383
+representative sentiment;3.17805383
+representation languages;3.17805383
+professional communities;3.17805383
+W3C compliant approaches;3.17805383
+relevant set of features;3.17805383
+computational complexity;3.17805383
+basic situation calculus;3.17805383
+reasoning about dynamics;3.17805383
+hierarchies of intervals;3.17805383
+reduced paper collection;3.17805383
+indefinite temporal data;3.17805383
+precise numerical values;3.17805383
+opinion of the community;3.17805383
+infinite sets of periods;3.17805383
+composition of relations;3.17805383
+periodic time structures;3.17805383
+analyses of timed series;3.17805383
+TemporallyExistingThings;3.17805383
+single qualitative value;3.17805383
+Pictorial Representation;3.17805383
+point in non-metric time;3.17805383
+finite sets of intervals;3.17805383
+time-difference function;3.17805383
+formal treatment of time;3.17805383
+Non-Convex-Time-Interval;3.17805383
+New Generation Computing;3.17805383
+Methodological Positions;3.17805383
+physical time coordinate;3.17805383
+Rely-Guarantee Reasoning;3.17805383
+Proliferation of objects;3.17805383
+Semantic Web communities;3.17805383
+distinguished time point;3.17805383
+ending point of validity;3.17805383
+point to point relations;3.17805383
+ends of TemporalEntities;3.17805383
+Saturation-Based Metrics;3.17805383
+half-open time intervals;3.17805383
+set of temporal features;3.17805383
+linear (non-metric) time;3.17805383
+absolutist distinctions;3.135494216
+discrete time structure;3.135494216
+technique for measuring;3.135494216
+abstract time structure;3.135494216
+temporal logic language;3.135494216
+differentiable function;3.135494216
+current instant of time;3.135494216
+Standard Upper Ontology;3.135494216
+non-proprietary content;3.135494216
+proper structural parts;3.135494216
+atomic elements of time;3.135494216
+standard upper ontology;3.135494216
+beginning time instants;3.135494216
+boundary of an interval;3.135494216
+bounded and cyclic time;3.135494216
+most significant impact;3.135494216
+Model-Based Perspective;3.135494216
+cardinality constraints;3.135494216
+disjoint time intervals;3.135494216
+Closed World Assumption;3.135494216
+Layered Temporal Logics;3.135494216
+Reference Specification;3.135494216
+Industrial Applications;3.135494216
+Relativist distinctions;3.135494216
+uniform circular motion;3.135494216
+Calendar-Month-December;3.135494216
+set of the requirements;3.135494216
+Revised Selected Papers;3.135494216
+infinite set of periods;3.135494216
+foundational ontologies;3.135494216
+Temporal Query Language;3.135494216
+has-end-time properties;3.135494216
+inconsistency detection;3.135494216
+paper collection slices;3.135494216
+semi-infinite time line;3.135494216
+segments of a time line;3.135494216
+expressive capabilities;3.135494216
+existing models of time;3.135494216
+unique location in time;3.135494216
+celestial sphere motion;3.135494216
+representations of time;3.135494216
+theory of transmutation;3.135494216
+time-related ontologies;3.135494216
+TimeInterval collection;3.135494216
+intuitive understanding;3.135494216
+Knowledge-Based Systems;3.135494216
+W3C compliant solutions;3.135494216
+exact temporal location;3.135494216
+Formal theories of time;3.135494216
+temporal query language;3.135494216
+Quantity;3.119162313
+infinite in the future;3.091042453
+microelectronic design;3.091042453
+Metric Temporal Logics;3.091042453
+non-metric time points;3.091042453
+Semantic Web community;3.091042453
+incomplete information;3.091042453
+Logical Formalizations;3.091042453
+Semantic Web Reasoning;3.091042453
+metric aspects of time;3.091042453
+Semantic Web Retrieval;3.091042453
+singular time interval;3.091042453
+SWRL-Temporal ontology;3.091042453
+objective flow of time;3.091042453
+Presburger constraints;3.091042453
+Large-Scale Investment;3.091042453
+upper level ontologies;3.091042453
+ontological categories;3.091042453
+Point-Based Structures;3.091042453
+Philosophical Problems;3.091042453
+significance threshold;3.091042453
+Knowledge Technologies;3.091042453
+ontology of perdurants;3.091042453
+information redundancy;3.091042453
+Ontology of Happenings;3.091042453
+infinitesimal elements;3.091042453
+Representation of time;3.091042453
+temporalized knowledge;3.091042453
+infinite temporal data;3.091042453
+SWRL Temporal ontology;3.091042453
+opinion of a community;3.091042453
+nonempty convex subset;3.091042453
+Reusable Time Ontology;3.091042453
+satisfiability problem;3.091042453
+the instant of present;3.091042453
+formal representations;3.091042453
+philosophical doctrine;3.091042453
+basic temporal element;3.091042453
+reasoning about change;3.091042453
+substrata of locations;3.091042453
+TemporalEntity concept;3.091042453
+Calendar-Month-January;3.091042453
+Constraint Programming;3.091042453
+extracted set of terms;3.091042453
+continuous development;3.091042453
+professional community;3.091042453
+Indefinite Information;3.091042453
+continuum of instances;3.091042453
+reusable time ontology;3.091042453
+theoretical background;3.091042453
+evolution of the world;3.091042453
+Time line partitioning;3.091042453
+core temporal entities;3.091042453
+correctness properties;3.091042453
+current moment of time;3.091042453
+Upper-Level Ontologies;3.091042453
+bounded nature of time;3.091042453
+undecidable extensions;3.091042453
+total ordering of time;3.091042453
+participating entities;3.091042453
+abstract specification;3.091042453
+period of working time;3.091042453
+frequency of citations;3.091042453
+binary object property;3.091042453
+formalizations of time;3.091042453
+fuzzy binary relations;3.091042453
+W3C complaint solution;3.091042453
+evolution of concepts;3.044522438
+time-related elements;3.044522438
+interval start points;3.044522438
+Graph Structured Data;3.044522438
+representing dynamics;3.044522438
+Tractable Subalgebras;3.044522438
+Semantic Web Ontology;3.044522438
+Provenance Management;3.044522438
+required measurements;3.044522438
+Approximate Reasoning;3.044522438
+individual ontologies;3.044522438
+Semantic Technologies;3.044522438
+Behavioral prediction;3.044522438
+functional properties;3.044522438
+unboundedness of time;3.044522438
+Business Intelligence;3.044522438
+satisfaction operator;3.044522438
+forest-like structure;3.044522438
+philosophical systems;3.044522438
+Qualitative relations;3.044522438
+set of time intervals;3.044522438
+temporal constructors;3.044522438
+information resources;3.044522438
+general-purpose terms;3.044522438
+Really Temporal Logic;3.044522438
+ontology of endurants;3.044522438
+inner time boundaries;3.044522438
+Knowledge Engineering;3.044522438
+domains of properties;3.044522438
+Open World Assumption;3.044522438
+Ontological Positions;3.044522438
+declarative languages;3.044522438
+metric temporal logic;3.044522438
+Computer Applications;3.044522438
+data type comparisons;3.044522438
+quantitative problems;3.044522438
+analytic review paper;3.044522438
+spatio-temporal parts;3.044522438
+Very Large Data Bases;3.044522438
+property restrictions;3.044522438
+worst case complexity;3.044522438
+logical formalization;3.044522438
+linear temporal logic;3.044522438
+4-dimensional objects;3.044522438
+timed series of video;3.044522438
+transitive properties;3.044522438
+additional constructs;3.044522438
+interval-based theory;3.044522438
+classification groups;3.044522438
+timed series of audio;3.044522438
+n-consistency problem;3.044522438
+Point-Point Relations;3.044522438
+“synthetic” model;3.044522438
+Commonsense Reasoning;3.044522438
+Advanced Technologies;3.044522438
+standard real numbers;3.044522438
+multiplicative factor;3.044522438
+ordered set;2.997369091
+question of interest;2.995732274
+Reasoning About Time;2.995732274
+SPARQL query engines;2.995732274
+SWRL reasoning rules;2.995732274
+reading of the clock;2.995732274
+Non-convex Intervals;2.995732274
+Newtonian space-time;2.995732274
+set of InnerInstants;2.995732274
+underlying namespace;2.995732274
+strong n-consistency;2.995732274
+real-time properties;2.995732274
+Semantic Web Storage;2.995732274
+annotated properties;2.995732274
+symmetric properties;2.995732274
+Temporal Uncertainty;2.995732274
+Ontology Description;2.995732274
+Periodic Subinterval;2.995732274
+XML-Schema datatypes;2.995732274
+type of the TimeLine;2.995732274
+Infinite Information;2.995732274
+additional relations;2.995732274
+Terminological shift;2.995732274
+Fuzzy Time Intervals;2.995732274
+Ontology for Fluents;2.995732274
+sub-ontology of time;2.995732274
+Time-Interval domain;2.995732274
+restriction checking;2.995732274
+TimeInterval concept;2.995732274
+space-time continuum;2.995732274
+Temporal Subsumption;2.995732274
+specific time points;2.995732274
+Interleaved Programs;2.995732274
+Interactive Behavior;2.995732274
+TIME symposia series;2.995732274
+Temporal Co-location;2.995732274
+application coverage;2.995732274
+antique philosophers;2.995732274
+Logic-Based Approach;2.995732274
+alternative approach;2.995732274
+allowable constructs;2.995732274
+temporalized classes;2.995732274
+terminological shift;2.995732274
+reasoning complexity;2.995732274
+sets of TimeInstants;2.995732274
+Machine Intelligence;2.995732274
+point in metric time;2.995732274
+deeper understanding;2.995732274
+datetime description;2.995732274
+level of abstraction;2.995732274
+level of granularity;2.995732274
+linear discrete time;2.995732274
+infinite in the past;2.995732274
+proper sub-chronoids;2.995732274
+Agent-Oriented Model;2.995732274
+Chemical Engineering;2.995732274
+discrete time domain;2.995732274
+ending time instants;2.995732274
+duration annotations;2.995732274
+pair-wise comparison;2.995732274
+polynomial algorithm;2.995732274
+ends of the interval;2.995732274
+time-related concept;2.995732274
+distinguished points;2.995732274
+point-based theories;2.995732274
+object of a property;2.995732274
+discreteness of time;2.995732274
+discrete time models;2.995732274
+ontology engineering;2.995732274
+logic-based approach;2.995732274
+dynamic time warping;2.995732274
+partitioning of time;2.995732274
+harmonization effort;2.995732274
+group of researchers;2.995732274
+Applied Temporal RDF;2.995732274
+comparison operation;2.995732274
+part of the ontology;2.995732274
+MUSING Time ontology;2.995732274
+consensual sentiment;2.995732274
+hierarchy of modules;2.995732274
+non-convex intervals;2.995732274
+homogeneous approach;2.995732274
+non-negative numbers;2.995732274
+impact of the papers;2.995732274
+individual Qualities;2.995732274
+consolidated opinion;2.995732274
+taxonomy of Features;2.995732274
+possible assertions;2.944438979
+subject of research;2.944438979
+dynamic information;2.944438979
+end of the interval;2.944438979
+spatial information;2.944438979
+decidable fragments;2.944438979
+General Methodology;2.944438979
+representing change;2.944438979
+different calendars;2.944438979
+presentist approach;2.944438979
+subsequent sections;2.944438979
+working days period;2.944438979
+Ontology Versioning;2.944438979
+Formal Verification;2.944438979
+ExtendedProposition;2.944438979
+datatype properties;2.944438979
+durations of events;2.944438979
+temporal annotation;2.944438979
+XSD date/time value;2.944438979
+nonnegative numbers;2.944438979
+working week period;2.944438979
+directly compatible;2.944438979
+Community Sentiment;2.944438979
+process interaction;2.944438979
+Valid time of facts;2.944438979
+algebraic structure;2.944438979
+real-world entities;2.944438979
+medium expressivity;2.944438979
+membership function;2.944438979
+compromise approach;2.944438979
+Database Technology;2.944438979
+modal logic formula;2.944438979
+Decidable fragments;2.944438979
+clinical narratives;2.944438979
+celestial phenomena;2.944438979
+chronological order;2.944438979
+Decision procedures;2.944438979
+algebraic relations;2.944438979
+reasonable addition;2.944438979
+propositional logic;2.944438979
+process simulations;2.944438979
+Conceptual Modeling;2.944438979
+OWL reasoning tools;2.944438979
+allowable relations;2.944438979
+Hebrand time points;2.944438979
+times of occurrence;2.944438979
+logical perspective;2.944438979
+application domains;2.944438979
+continuous function;2.944438979
+arbitrary intervals;2.944438979
+proper sub-interval;2.944438979
+arbitrary precision;2.944438979
+specific properties;2.944438979
+available reasoners;2.944438979
+alternative version;2.944438979
+Unbounded Intervals;2.944438979
+inner time instants;2.944438979
+Processual entities;2.944438979
+temporal primitives;2.944438979
+Temporal Processing;2.944438979
+structural elements;2.944438979
+Semantic Technology;2.944438979
+periodicity of time;2.944438979
+interval end points;2.944438979
+unbounded intervals;2.944438979
+Real Time Computing;2.944438979
+granularity of time;2.944438979
+high-level ontology;2.944438979
+onTimeLine property;2.944438979
+ontological content;2.944438979
+hypothetical future;2.944438979
+gesture recognition;2.944438979
+Structural Ontology;2.944438979
+unit time intervals;2.944438979
+half-open intervals;2.944438979
+pair of individuals;2.944438979
+semantic sensor web;2.944438979
+Temporal Extensions;2.944438979
+time representation;2.944438979
+Temporal Aggregates;2.944438979
+formal verification;2.944438979
+universal time line;2.944438979
+level of complexity;2.944438979
+Annotation Algebras;2.944438979
+versioning approach;2.944438979
+temporal constructs;2.944438979
+set of requirements;2.944438979
+Termhood saturation;2.944438979
+number of the terms;2.944438979
+operators of binder;2.944438979
+evolving properties;2.944438979
+TemporalObjectTypes;2.944438979
+TimeLineMap concept;2.944438979
+Temporal precedence;2.944438979
+starting time point;2.944438979
+exhaustive searches;2.944438979
+Temporal properties;2.944438979
+knowledge engineers;2.944438979
+open time intervals;2.944438979
+Temporal structures;2.944438979
+finite time regions;2.944438979
+segment;2.918865224
+scenario overviews;2.890371758
+special time point;2.890371758
+temporal languages;2.890371758
+temporal behaviour;2.890371758
+reduced collection;2.890371758
+temporal asymmetry;2.890371758
+proceedings papers;2.890371758
+temporal unit type;2.890371758
+sampling frequency;2.890371758
+natural scientists;2.890371758
+primitive elements;2.890371758
+primitive entities;2.890371758
+things with extent;2.890371758
+temporal ER models;2.890371758
+real-valued clocks;2.890371758
+periodic behaviors;2.890371758
+primitive concepts;2.890371758
+temporal knowledge;2.890371758
+potential coverage;2.890371758
+the largest number;2.890371758
+supported language;2.890371758
+sets of properties;2.890371758
+property semantics;2.890371758
+property labelling;2.890371758
+temporal databases;2.890371758
+time box structure;2.890371758
+temporal sequences;2.890371758
+ontology languages;2.890371758
+temporal deadlines;2.890371758
+temporal dimension;2.890371758
+non-standard store;2.890371758
+sparse time models;2.890371758
+successor function;2.890371758
+space dimension(s);2.890371758
+sorts of relations;2.890371758
+sentiment analysis;2.890371758
+possible histories;2.890371758
+sequence of events;2.890371758
+significant aspect;2.890371758
+temporal formalism;2.890371758
+representative set;2.890371758
+Temporal Qualities;2.890371758
+first order theory;2.890371758
+types of TimeLines;2.890371758
+TemporalStructures;2.890371758
+TemporalStuffTypes;2.890371758
+extracted features;2.890371758
+Theoretical Issues;2.890371758
+Time-Point concept;2.890371758
+Temporal Intervals;2.890371758
+Asserted relations;2.890371758
+individual Quality;2.890371758
+Semantic Computing;2.890371758
+indexing mechanism;2.890371758
+important features;2.890371758
+Situation Calculus;2.890371758
+StartingIntervalFn;2.890371758
+human common sense;2.890371758
+time slice objects;2.890371758
+high-impact papers;2.890371758
+Temporal Databases;2.890371758
+geographical zones;2.890371758
+ContinuousTimeLine;2.890371758
+basic time element;2.890371758
+beginning Instants;2.890371758
+DAML-Time ontology;2.890371758
+compound construct;2.890371758
+composition tables;2.890371758
+combined reasoning;2.890371758
+cognitive sciences;2.890371758
+citation frequency;2.890371758
+continuous domains;2.890371758
+working day period;2.890371758
+Vote-Based Metrics;2.890371758
+W3C Recommendation;2.890371758
+W3C recommendation;2.890371758
+disjoint relations;2.890371758
+different versions;2.890371758
+infinite sequences;2.890371758
+DynamicTimeWarping;2.890371758
+current time point;2.890371758
+Constraint Calculi;2.890371758
+alternative metric;2.890371758
+Anisotropy of Time;2.890371758
+intended semantics;2.890371758
+mathematical sense;2.890371758
+Level of operation;2.890371758
+OWL querying tools;2.890371758
+4D fluent approach;2.890371758
+universal timeline;2.890371758
+logical postulates;2.890371758
+Ontolingua library;2.890371758
+Proper Subinterval;2.890371758
+logical frameworks;2.890371758
+time of occurrence;2.890371758
+logical foundation;2.890371758
+Language Resources;2.890371758
+Process Management;2.890371758
+OWL representation;2.890371758
+Ordering of Events;2.890371758
+ONTOLOGIES OF TIME;2.890371758
+universal TimeLine;2.890371758
+time granularities;2.890371758
+linear constraints;2.890371758
+Neighborhood Logic;2.890371758
+Ontology of Events;2.890371758
+validity intervals;2.890371758
+information mining;2.890371758
+temporal concepts;2.833213344
+real-time systems;2.833213344
+Temporal Querying;2.833213344
+process modelling;2.833213344
+temporal property;2.833213344
+Computer Software;2.833213344
+de facto standard;2.833213344
+3-way consistency;2.833213344
+Temporal elements;2.833213344
+types of entities;2.833213344
+binary properties;2.833213344
+datatype property;2.833213344
+Temporal concepts;2.833213344
+Temporal measures;2.833213344
+beginning of time;2.833213344
+Temporal distance;2.833213344
+date/time formats;2.833213344
+multiple versions;2.833213344
+analogue TimeLine;2.833213344
+concise fragments;2.833213344
+W3C Working Group;2.833213344
+topical statement;2.833213344
+abstract ontology;2.833213344
+complexity bounds;2.833213344
+qualitative terms;2.833213344
+negative infinity;2.833213344
+the same interval;2.833213344
+temporal instants;2.833213344
+Tractable subsets;2.833213344
+aspects of change;2.833213344
+Application areas;2.833213344
+chronometric time;2.833213344
+Calendar-Saturday;2.833213344
+Bounded Intervals;2.833213344
+TimeLine Ontology;2.833213344
+lunch time period;2.833213344
+Timeline Ontology;2.833213344
+Total No of terms;2.833213344
+application areas;2.833213344
+General Framework;2.833213344
+sort of fuzziness;2.833213344
+PSI-Time Ontology;2.833213344
+ordering relation;2.833213344
+Physical-Quantity;2.833213344
+single attributes;2.833213344
+Formal Ontologies;2.833213344
+Floyd-Hoare Logic;2.833213344
+point of validity;2.833213344
+infinite elements;2.833213344
+infinite interval;2.833213344
+Real-time Systems;2.833213344
+point-based model;2.833213344
+Real-time systems;2.833213344
+event occurrences;2.833213344
+Reasoning support;2.833213344
+entire collection;2.833213344
+ontology versions;2.833213344
+Interval concepts;2.833213344
+static properties;2.833213344
+granularity model;2.833213344
+granularity level;2.833213344
+structure of time;2.833213344
+Linearity of time;2.833213344
+standard property;2.833213344
+parallel programs;2.833213344
+fuzziness of time;2.833213344
+future assertions;2.833213344
+fully ordered set;2.833213344
+freeze quantifier;2.833213344
+foundational part;2.833213344
+OWL editing tools;2.833213344
+specific duration;2.833213344
+OWL specification;2.833213344
+OWL-Time Ontology;2.833213344
+OWL-time ontology;2.833213344
+focus of interest;2.833213344
+Ontology Dynamics;2.833213344
+Representing Time;2.833213344
+sets of relations;2.833213344
+Reusable Ontology;2.833213344
+strong likelihood;2.833213344
+time-related part;2.833213344
+domain ontologies;2.833213344
+Direction of Time;2.833213344
+dynamic behaviour;2.833213344
+interval sequence;2.833213344
+descriptive means;2.833213344
+object properties;2.833213344
+Spatial Databases;2.833213344
+underlying domain;2.833213344
+intervals of time;2.833213344
+Digital Libraries;2.833213344
+Dynamical Systems;2.833213344
+symmetric closure;2.833213344
+Reusable ontology;2.833213344
+positive infinity;2.833213344
+set of properties;2.833213344
+Temporal Measures;2.833213344
+default RDF graph;2.833213344
+dense time models;2.833213344
+dense number sets;2.833213344
+positions in time;2.833213344
+unit;2.772588722
+rate;2.772588722
+ISWC;2.772588722
+pair;2.772588722
+blur;2.772588722
+FOIS;2.772588722
+ESWC;2.772588722
+hour;2.772588722
+LNCS;2.772588722
+ways;2.772588722
+thdr;2.772588722
+Tool;2.772588722
+TDLs;2.772588722
+Custom store HFC;2.772588722
+instance of time;2.772588722
+Data Engineering;2.772588722
+logical formulae;2.772588722
+Dense time model;2.772588722
+Atomistic school;2.772588722
+Application Area;2.772588722
+metric reference;2.772588722
+Calendar Systems;2.772588722
+next lower level;2.772588722
+Allen’s axioms;2.772588722
+infinity of time;2.772588722
+linear intervals;2.772588722
+Closed Intervals;2.772588722
+intangible thing;2.772588722
+EndingIntervalFn;2.772588722
+library ontology;2.772588722
+Concrete Domains;2.772588722
+Concrete domains;2.772588722
+important aspect;2.772588722
+AbstractTimeLine;2.772588722
+temporal extents;2.772588722
+Convex Intervals;2.772588722
+Features of time;2.772588722
+infinite numbers;2.772588722
+DiscreteTimeLine;2.772588722
+linear time line;2.772588722
+BeginningInstant;2.772588722
+measures of time;2.772588722
+Acknowledgements;2.772588722
+inference system;2.772588722
+Collection Slice;2.772588722
+Instant concepts;2.772588722
+non-temporal DLs;2.772588722
+Process modeling;2.772588722
+RelativeTimeLine;2.772588722
+research efforts;2.772588722
+Repeating States;2.772588722
+sets of concepts;2.772588722
+position in time;2.772588722
+UnitTimeInterval;2.772588722
+proper intervals;2.772588722
+Time measurement;2.772588722
+control location;2.772588722
+convex intervals;2.772588722
+University Press;2.772588722
+Reasoning Engine;2.772588722
+relativist views;2.772588722
+exponential time;2.772588722
+World Assumption;2.772588722
+RDF repositories;2.772588722
+Real-Time Logics;2.772588722
+computer program;2.772588722
+repeating events;2.772588722
+computer systems;2.772588722
+conceptual space;2.772588722
+Real-time logics;2.772588722
+Temporal Quality;2.772588722
+natural language;2.772588722
+set intersection;2.772588722
+simple relations;2.772588722
+Time Granularity;2.772588722
+possible futures;2.772588722
+Synthetic theory;2.772588722
+digital problems;2.772588722
+digital circuits;2.772588722
+digital TimeLine;2.772588722
+Technical Report;2.772588722
+discrete domains;2.772588722
+Temporal Classes;2.772588722
+primitive entity;2.772588722
+Temporal Instant;2.772588722
+Temporal Regions;2.772588722
+Temporal Queries;2.772588722
+discrete systems;2.772588722
+core assumptions;2.772588722
+The lowest score;2.772588722
+Semantic Systems;2.772588722
+current interval;2.772588722
+TemporalModality;2.772588722
+TemporalEntities;2.772588722
+TemporalElements;2.772588722
+potential agenda;2.772588722
+Temporal regions;2.772588722
+segments of time;2.772588722
+dynamic entities;2.772588722
+Proper intervals;2.772588722
+rational numbers;2.772588722
+Natural Sciences;2.772588722
+rational domains;2.772588722
+closed intervals;2.772588722
+archaic thoughts;2.772588722
+calendar pattern;2.772588722
+transaction time;2.772588722
+tractable subset;2.772588722
+formal structure;2.772588722
+OWL repositories;2.772588722
+functional units;2.772588722
+certain features;2.772588722
+OWL class axioms;2.772588722
+frame references;2.772588722
+Ontology Fitness;2.772588722
+Ontology Library;2.772588722
+total quantities;2.772588722
+first time point;2.772588722
+rdf data streams;2.772588722
+software program;2.772588722
+related features;2.772588722
+physical reality;2.772588722
+regular programs;2.772588722
+finite precision;2.772588722
+feature coverage;2.772588722
+absolutist views;2.772588722
+Sciences;2.772588722
+GFO;2.746530722
+relevant papers;2.708050201
+specializations;2.708050201
+Point Relations;2.708050201
+implementations;2.708050201
+subject experts;2.708050201
+absolutist view;2.708050201
+temporal wholes;2.708050201
+representatives;2.708050201
+Fuzzy Intervals;2.708050201
+feature choices;2.708050201
+phenomenal time;2.708050201
+important issue;2.708050201
+inconsistencies;2.708050201
+important facet;2.708050201
+TIME collection;2.708050201
+impact of paper;2.708050201
+fuzzy intervals;2.708050201
+basic structure;2.708050201
+temporal theory;2.708050201
+calendar schema;2.708050201
+8-ary predicate;2.708050201
+generic concept;2.708050201
+tractable cases;2.708050201
+start functions;2.708050201
+structured form;2.708050201
+branching model;2.708050201
+various degrees;2.708050201
+grant agreement;2.708050201
+temporal models;2.708050201
+temporal module;2.708050201
+binder operator;2.708050201
+time frameworks;2.708050201
+basic primitive;2.708050201
+topmost concept;2.708050201
+reduced dataset;2.708050201
+periods of time;2.708050201
+quantity values;2.708050201
+appropriateness;2.708050201
+recommendations;2.708050201
+Non-metric Time;2.708050201
+square brackets;2.708050201
+Absolutist view;2.708050201
+query languages;2.708050201
+National Centre;2.708050201
+NP-hard problem;2.708050201
+N-ary relations;2.708050201
+balanced choice;2.708050201
+central concept;2.708050201
+historical data;2.708050201
+basic functions;2.708050201
+algebraic sense;2.708050201
+arc consistency;2.708050201
+simplified form;2.708050201
+decomposability;2.708050201
+decimal numbers;2.708050201
+dynamic objects;2.708050201
+last time point;2.708050201
+sampled version;2.708050201
+element of time;2.708050201
+dateTime values;2.708050201
+time difference;2.708050201
+ending Instants;2.708050201
+Representations;2.708050201
+Exact Reasoning;2.708050201
+polynomial time;2.708050201
+SemData project;2.708050201
+Discrete models;2.708050201
+discrete models;2.708050201
+time not cyclic;2.708050201
+time of writing;2.708050201
+segment of time;2.708050201
+StartingPointFn;2.708050201
+Density of Time;2.708050201
+object property;2.708050201
+Temporal module;2.708050201
+group operation;2.708050201
+Database Models;2.708050201
+interval shapes;2.708050201
+Span ontologies;2.708050201
+timed automaton;2.708050201
+Snap ontologies;2.708050201
+Crisp Intervals;2.708050201
+interval phases;2.708050201
+knowledge bases;2.708050201
+presentist view;2.708050201
+database models;2.708050201
+Calendar-Day-31;2.708050201
+crisp intervals;2.708050201
+TerMine service;2.708050201
+core ontologies;2.708050201
+Query languages;2.708050201
+Query answering;2.708050201
+time anisotropy;2.708050201
+prolog reasoner;2.708050201
+Time difference;2.708050201
+simple calendar;2.708050201
+Protege Plug-in;2.708050201
+CHRONOS plug-in;2.708050201
+eternalist view;2.708050201
+data redundancy;2.708050201
+right endpoints;2.708050201
+Relativist view;2.708050201
+right end-point;2.708050201
+Calendar-Sunday;2.708050201
+state;2.682396521
+Dynamic Logics;2.63905733
+symposium year;2.63905733
+possible needs;2.63905733
+syncronization;2.63905733
+Spatial Logics;2.63905733
+interval logic;2.63905733
+season periods;2.63905733
+Enterprise Cyc;2.63905733
+important part;2.63905733
+temporal-thing;2.63905733
+specialization;2.63905733
+sub-properties;2.63905733
+identification;2.63905733
+OWL ontologies;2.63905733
+specific value;2.63905733
+Hybrid Systems;2.63905733
+Hybrid systems;2.63905733
+Implementation;2.63905733
+OWL compatible;2.63905733
+hybrid systems;2.63905733
+weekend period;2.63905733
+values of time;2.63905733
+Logics of Time;2.63905733
+General TBoxes;2.63905733
+Fuzzy duration;2.63905733
+Open Intervals;2.63905733
+Expert Systems;2.63905733
+points of time;2.63905733
+points in time;2.63905733
+open intervals;2.63905733
+infinite trees;2.63905733
+time positions;2.63905733
+Robot planning;2.63905733
+exact relation;2.63905733
+point algebras;2.63905733
+existing tools;2.63905733
+Protege editor;2.63905733
+temporal space;2.63905733
+facets of time;2.63905733
+incompleteness;2.63905733
+RDF blank node;2.63905733
+TIME Community;2.63905733
+very long time;2.63905733
+research issue;2.63905733
+Calendar-Day-1;2.63905733
+World Wide Web;2.63905733
+left endpoints;2.63905733
+left end-point;2.63905733
+tractable sets;2.63905733
+axiomatic time;2.63905733
+Calendar model;2.63905733
+Constraint LTL;2.63905733
+basic elements;2.63905733
+Annotated RDFS;2.63905733
+temporal parts;2.63905733
+basic entities;2.63905733
+logical clocks;2.63905733
+time instances;2.63905733
+regular events;2.63905733
+database entry;2.63905733
+quantification;2.63905733
+region of time;2.63905733
+abstract clock;2.63905733
+Calendar-Month;2.63905733
+Temporal logic;2.63905733
+quarter period;2.63905733
+XSD time value;2.63905733
+XSD date value;2.63905733
+unbounbdedness;2.63905733
+TemporalThings;2.63905733
+retrieved data;2.63905733
+Correspondence;2.63905733
+basic property;2.63905733
+mathematicians;2.63905733
+continuousness;2.63905733
+Time intervals;2.63905733
+Cyc time model;2.63905733
+Branching Time;2.63905733
+Best Practices;2.63905733
+digital signal;2.63905733
+main RDF graph;2.63905733
+Tractable sets;2.63905733
+second-in-time;2.63905733
+Axiomatic Time;2.63905733
+Business Rules;2.63905733
+concise review;2.63905733
+time dimension;2.63905733
+Time Intervals;2.63905733
+convenient way;2.63905733
+W3C compliance;2.63905733
+retained terms;2.63905733
+concise manner;2.63905733
+universe;2.599301927
+major concern;2.564949357
+Base ontology;2.564949357
+slider window;2.564949357
+extracted set;2.564949357
+Time quantity;2.564949357
+manufacturing;2.564949357
+magnification;2.564949357
+dense domains;2.564949357
+Base Ontology;2.564949357
+integral part;2.564949357
+Temporal Part;2.564949357
+time position;2.564949357
+list of terms;2.564949357
+EndingInstant;2.564949357
+set of states;2.564949357
+end functions;2.564949357
+SUMO Temporal;2.564949357
+SOWL Ontology;2.564949357
+EndingPointFn;2.564949357
+shift in time;2.564949357
+everyday life;2.564949357
+opposite ends;2.564949357
+time measures;2.564949357
+units of time;2.564949357
+contributions;2.564949357
+explicit ends;2.564949357
+Time Measures;2.564949357
+Scale factors;2.564949357
+survey papers;2.564949357
+review papers;2.564949357
+Scale Factors;2.564949357
+Abelian group;2.564949357
+Indeterminacy;2.564949357
+stable period;2.564949357
+Standard Time;2.564949357
+circular time;2.564949357
+circular view;2.564949357
+validity time;2.564949357
+TIME-INTERVAL;2.564949357
+Special issue;2.564949357
+Temporal CSPs;2.564949357
+distinct name;2.564949357
+time-instance;2.564949357
+TOWL ontology;2.564949357
+month periods;2.564949357
+time ontology;2.564949357
+THD algorithm;2.564949357
+bounding time;2.564949357
+2-consistency;2.564949357
+natural means;2.564949357
+global clocks;2.564949357
+time infinity;2.564949357
+calendar-date;2.564949357
+MUSING system;2.564949357
+discrete part;2.564949357
+Middle Points;2.564949357
+causal chains;2.564949357
+if predicates;2.564949357
+annotated RDF;2.564949357
+analog signal;2.564949357
+temporal gaps;2.564949357
+special axiom;2.564949357
+Approximation;2.564949357
+Working Notes;2.564949357
+Working Group;2.564949357
+understanding;2.564949357
+Web Semantics;2.564949357
+improved form;2.564949357
+time-entities;2.564949357
+measured time;2.564949357
+Span entities;2.564949357
+Custom SPARQL;2.564949357
+Automata Lang;2.564949357
+CurrentMoment;2.564949357
+Global Clocks;2.564949357
+integer range;2.564949357
+communication;2.564949357
+time algebras;2.564949357
+column stores;2.564949357
+time features;2.564949357
+commutativity;2.564949357
+subcollection;2.564949357
+abstract axis;2.564949357
+quality space;2.564949357
+method of use;2.564949357
+Annotated RDF;2.564949357
+time segments;2.564949357
+DateTime type;2.564949357
+OWL standards;2.564949357
+integer part;2.48490665
+finite limit;2.48490665
+linear model;2.48490665
+capabilities;2.48490665
+measurements;2.48490665
+combinations;2.48490665
+date triples;2.48490665
+correct rate;2.48490665
+time aspects;2.48490665
+common units;2.48490665
+decomposable;2.48490665
+flow of time;2.48490665
+proper parts;2.48490665
+lower bounds;2.48490665
+further work;2.48490665
+publications;2.48490665
+time instant;2.48490665
+key features;2.48490665
+civilization;2.48490665
+time domains;2.48490665
+condensation;2.48490665
+general case;2.48490665
+intersection;2.48490665
+present time;2.48490665
+linear space;2.48490665
+the theories;2.48490665
+observations;2.48490665
+constructors;2.48490665
+central role;2.48490665
+discreteness;2.48490665
+thdr mertric;2.48490665
+distinctions;2.48490665
+nomenclature;2.48490665
+natural laws;2.48490665
+Verification;2.48490665
+Hybrid Logic;2.48490665
+XSD datatype;2.48490665
+xsd:duration;2.48490665
+xml document;2.48490665
+Tense Logics;2.48490665
+Calendar-Day;2.48490665
+TemporalUnit;2.48490665
+Start Points;2.48490665
+Neighborhood;2.48490665
+authenticity;2.48490665
+Decidability;2.48490665
+average case;2.48490665
+ValidInstant;2.48490665
+substitution;2.48490665
+upper bounds;2.48490665
+related work;2.48490665
+Date Formats;2.48490665
+xsd:dateTime;2.48490665
+Formal Logic;2.48490665
+Focal Issues;2.48490665
+Dense models;2.48490665
+Transactions;2.48490665
+availability;2.48490665
+AKT ontology;2.48490665
+Research Cyc;2.48490665
+Logical Time;2.48490665
+Local Clocks;2.48490665
+Availability;2.48490665
+Significance;2.48490665
+ReusableTime;2.48490665
+tedious task;2.48490665
+year-in-time;2.48490665
+basic entity;2.48490665
+Relationship;2.48490665
+Monodic FOTL;2.48490665
+TIME authors;2.48490665
+Bag of Terms;2.48490665
+Modal Logics;2.48490665
+Repositories;2.48490665
+Milliseconds;2.48490665
+standard RDF;2.48490665
+Slice;2.414156869
+hyper-reals;2.397895273
+time theory;2.397895273
+Interaction;2.397895273
+OWL classes;2.397895273
+high impact;2.397895273
+Explanation;2.397895273
+terminology;2.397895273
+number line;2.397895273
+Informatics;2.397895273
+inspiration;2.397895273
+Equal-Point;2.397895273
+time slices;2.397895273
+Deliverable;2.397895273
+referencing;2.397895273
+fuzzy match;2.397895273
+Marie Curie;2.397895273
+rarefaction;2.397895273
+arrangement;2.397895273
+Linguistics;2.397895273
+key premise;2.397895273
+global time;2.397895273
+fuzzy logic;2.397895273
+4D paradigm;2.397895273
+time stamps;2.397895273
+time shifts;2.397895273
+annotations;2.397895273
+time models;2.397895273
+reduced set;2.397895273
+Fuzzy Model;2.397895273
+future work;2.397895273
+Metric Time;2.397895273
+feature set;2.397895273
+TimeLineMap;2.397895273
+TimeWarping;2.397895273
+Timely YAGO;2.397895273
+possibility;2.397895273
+Subinterval;2.397895273
+zero extent;2.397895273
+truth value;2.397895273
+tense logic;2.397895273
+elaboration;2.397895273
+electronics;2.397895273
+after-lunch;2.397895273
+disciplines;2.397895273
+rule system;2.397895273
+year period;2.397895273
+deliverable;2.397895273
+Text Mining;2.397895273
+Time Points;2.397895273
+truth-value;2.397895273
+computation;2.397895273
+comparisons;2.397895273
+experiments;2.397895273
+composition;2.397895273
+punctuality;2.397895273
+familiarity;2.397895273
+plain texts;2.397895273
+Clock Logic;2.397895273
+Programming;2.397895273
+noncircular;2.397895273
+Alternative;2.397895273
+exact times;2.397895273
+term scores;2.397895273
+repetitions;2.397895273
+Visualizing;2.397895273
+linguistics;2.397895273
+exact dates;2.397895273
+refinement;2.302585093
+applicable;2.302585093
+Approaches;2.302585093
+mechanisms;2.302585093
+redundancy;2.302585093
+transition;2.302585093
+compliance;2.302585093
+capability;2.302585093
+conditions;2.302585093
+ValidTimes;2.302585093
+Versioning;2.302585093
+zero value;2.302585093
+thd metric;2.302585093
+background;2.302585093
+quadstores;2.302585093
+modalities;2.302585093
+thd values;2.302585093
+Algorithms;2.302585093
+University;2.302585093
+biologists;2.302585093
+coarseness;2.302585093
+reflection;2.302585093
+TimePoints;2.302585093
+chronicles;2.302585093
+beginnings;2.302585093
+quintuples;2.302585093
+velocities;2.302585093
+start-time;2.302585093
+SOWL model;2.302585093
+end points;2.302585093
+end-points;2.302585093
+perdurants;2.302585093
+References;2.302585093
+eternalism;2.302585093
+literature;2.302585093
+CHRONOS Ed;2.302585093
+precedence;2.302585093
+Initiative;2.302585093
+Situations;2.302585093
+sentiments;2.302585093
+Comparison;2.302585093
+partitions;2.302585093
+Quintuples;2.302585093
+upper part;2.302585093
+formal way;2.302585093
+PhD thesis;2.302585093
+space-time;2.302585093
+physicists;2.302585093
+Processing;2.302585093
+similarity;2.302585093
+Chronicles;2.302585093
+Provenance;2.302585093
+Standpoint;2.302585093
+Conference;2.302585093
+extraction;2.302585093
+extensions;2.302585093
+Dense Time;2.302585093
+derivative;2.302585093
+Technology;2.302585093
+subsection;2.302585093
+Task Force;2.302585093
+Generation;2.302585093
+Basic Time;2.302585093
+Fuzzy Sets;2.302585093
+presentism;2.302585093
+increments;2.302585093
+individual;2.302585093
+End Points;2.302585093
+date lines;2.302585093
+Evaluation;2.302585093
+Complexity;2.302585093
+Subclasses;2.302585093
+Harvesting;2.302585093
+directions;2.302585093
+Deployment;2.302585093
+dimensions;2.302585093
+occurrents;2.302585093
+Highlights;2.302585093
+now;2.197224577
+Use;2.197224577
+top;2.197224577
+sum;2.197224577
+ISO;2.197224577
+XSD;2.197224577
+cfr;2.197224577
+inference;2.197224577
+Semantics;2.197224577
+vagueness;2.197224577
+copyright;2.197224577
+diversity;2.197224577
+fixpoints;2.197224577
+Formalism;2.197224577
+crisp set;2.197224577
+dayOfYear;2.197224577
+fuzzy map;2.197224577
+Durations;2.197224577
+interests;2.197224577
+OWL class;2.197224577
+real time;2.197224577
+documents;2.197224577
+Answering;2.197224577
+denseness;2.197224577
+closeness;2.197224577
+responses;2.197224577
+convexity;2.197224577
+time unit;2.197224577
+substance;2.197224577
+phenomena;2.197224577
+formalism;2.197224577
+time zone;2.197224577
+Lowlights;2.197224577
+precision;2.197224577
+TimeSlice;2.197224577
+Existence;2.197224577
+TimePoint;2.197224577
+indicator;2.197224577
+OWL tools;2.197224577
+dayOfWeek;2.197224577
+RDF graph;2.197224577
+Predicate;2.197224577
+Real Time;2.197224577
+top level;2.197224577
+intuition;2.197224577
+certainty;2.197224577
+Databases;2.197224577
+treatment;2.197224577
+objective;2.197224577
+labelling;2.197224577
+thd curve;2.197224577
+Quintuple;2.197224577
+modelling;2.197224577
+Quadruple;2.197224577
+Education;2.197224577
+Wikipedia;2.197224577
+Qualities;2.197224577
+Processes;2.197224577
+hierarchy;2.197224577
+histories;2.197224577
+signature;2.197224577
+sub-graph;2.197224577
+execution;2.197224577
+processes;2.197224577
+Humankind;2.197224577
+ontologes;2.197224577
+DAML-Time;2.197224577
+DAML-TIME;2.197224577
+SUMO Time;2.197224577
+additions;2.197224577
+calendars;2.197224577
+own right;2.197224577
+asymmetry;2.197224577
+the origo;2.197224577
+inclusion;2.197224577
+build-ins;2.197224577
+Computers;2.197224577
+graphical;2.197224577
+basic set;2.197224577
+logicians;2.197224577
+endpoints;2.197224577
+usability;2.197224577
+end-point;2.197224577
+something;2.197224577
+encodings;2.197224577
+Diagnosis;2.197224577
+Histories;2.197224577
+gaps;2.079441542
+A-series;2.079441542
+Instance;2.079441542
+inverses;2.079441542
+4D views;2.079441542
+dynamics;2.079441542
+GFO-Time;2.079441542
+end-user;2.079441542
+evidence;2.079441542
+provider;2.079441542
+Category;2.079441542
+Validity;2.079441542
+RDF data;2.079441542
+RDF Data;2.079441542
+Industry;2.079441542
+category;2.079441542
+Week-Day;2.079441542
+end-time;2.079441542
+subparts;2.079441542
+Sections;2.079441542
+Termhood;2.079441542
+suffixes;2.079441542
+programs;2.079441542
+instance;2.079441542
+boundary;2.079441542
+B-series;2.079441542
+3D views;2.079441542
+problems;2.079441542
+creation;2.079441542
+robotics;2.079441542
+database;2.079441542
+Employee;2.079441542
+Dynamics;2.079441542
+products;2.079441542
+Automata;2.079441542
+medicine;2.079441542
+metadata;2.079441542
+practice;2.079441542
+Services;2.079441542
+timeZone;2.079441542
+contexts;2.079441542
+prefixes;2.079441542
+branches;2.079441542
+benefits;2.079441542
+Stanford;2.079441542
+planning;2.079441542
+key idea;2.079441542
+Database;2.079441542
+stSPARQL;2.079441542
+attitude;2.079441542
+Coverage;2.079441542
+modeling;2.079441542
+parthood;2.079441542
+Advances;2.079441542
+Operator;2.079441542
+DAML+OIL;2.079441542
+Open Cyc;2.079441542
+PROPERTY;2.079441542
+findings;2.079441542
+adoption;2.079441542
+chronoid;2.079441542
+flavours;2.079441542
+attempts;2.079441542
+artifact;2.079441542
+Practice;2.079441542
+modality;2.079441542
+Measures;2.079441542
+modifier;2.079441542
+Concepts;2.079441542
+checking;2.079441542
+Magazine;2.079441542
+topology;2.079441542
+Time Interval;2.051959486
+Origins;1.945910149
+sources;1.945910149
+library;1.945910149
+seconds;1.945910149
+algebra;1.945910149
+control;1.945910149
+speaker;1.945910149
+columns;1.945910149
+OpenCyc;1.945910149
+scaling;1.945910149
+regions;1.945910149
+analogy;1.945910149
+forever;1.945910149
+details;1.945910149
+Summary;1.945910149
+look-up;1.945910149
+Protege;1.945910149
+Scaling;1.945910149
+plug-in;1.945910149
+Changes;1.945910149
+UNISCON;1.945910149
+editors;1.945910149
+SUO-KIF;1.945910149
+request;1.945910149
+literal;1.945910149
+COMPSAC;1.945910149
+Results;1.945910149
+Seconds;1.945910149
+fashion;1.945910149
+Pattern;1.945910149
+physics;1.945910149
+Support;1.945910149
+Periods;1.945910149
+Summits;1.945910149
+machine;1.945910149
+Binding;1.945910149
+Problem;1.945910149
+duality;1.945910149
+ability;1.945910149
+weights;1.945910149
+Journey;1.945910149
+surveys;1.945910149
+Journal;1.945910149
+Inverse;1.945910149
+Formula;1.945910149
+reality;1.945910149
+Linking;1.945910149
+Fluents;1.945910149
+Minutes;1.945910149
+history;1.945910149
+Control;1.945910149
+integer;1.945910149
+balance;1.945910149
+Metrics;1.945910149
+Technologies;1.863679987
+triple;1.791759469
+moment;1.791759469
+Prolog;1.791759469
+sketch;1.791759469
+author;1.791759469
+Change;1.791759469
+thesis;1.791759469
+ICTERI;1.791759469
+Months;1.791759469
+labels;1.791759469
+REVIEW;1.791759469
+Minute;1.791759469
+module;1.791759469
+source;1.791759469
+colors;1.791759469
+things;1.791759469
+layers;1.791759469
+forest;1.791759469
+phases;1.791759469
+amount;1.791759469
+CoopIS;1.791759469
+groups;1.791759469
+Nature;1.791759469
+Issues;1.791759469
+family;1.791759469
+spirit;1.791759469
+KL-ONE;1.791759469
+Method;1.791759469
+Phases;1.791759469
+Person;1.791759469
+action;1.791759469
+Pellet;1.791759469
+ODBASE;1.791759469
+DARPAs;1.791759469
+speech;1.791759469
+Papers;1.791759469
+Entity;1.791759469
+manner;1.791759469
+design;1.791759469
+TRENDS;1.791759469
+Timing;1.791759469
+series;1.791759469
+bridge;1.791759469
+TL-OWL;1.791759469
+re-use;1.791759469
+degree;1.791759469
+bounds;1.791759469
+Ground;1.791759469
+sample;1.791759469
+Author;1.791759469
+branch;1.791759469
+ranges;1.791759469
+Finish;1.791759469
+wholes;1.791759469
+binder;1.791759469
+scales;1.791759469
+Google;1.791759469
+Union;1.609437912
+IRSES;1.609437912
+weeks;1.609437912
+style;1.609437912
+Trust;1.609437912
+tools;1.609437912
+RDF/S;1.609437912
+Score;1.609437912
+Terms;1.609437912
+video;1.609437912
+cycle;1.609437912
+ICTAI;1.609437912
+bound;1.609437912
+boost;1.609437912
+FONTE;1.609437912
+Graph;1.609437912
+areas;1.609437912
+Years;1.609437912
+pairs;1.609437912
+rates;1.609437912
+ideas;1.609437912
+whole;1.609437912
+Holon;1.609437912
+Hours;1.609437912
+store;1.609437912
+Plans;1.609437912
+stRDF;1.609437912
+TSQL2;1.609437912
+phase;1.609437912
+OWLED;1.609437912
+TALIP;1.609437912
+Start;1.609437912
+Quale;1.609437912
+LNBIP;1.609437912
+plans;1.609437912
+place;1.609437912
+grain;1.609437912
+peaks;1.609437912
+MARTE;1.609437912
+solid;1.609437912
+kinds;1.609437912
+nodes;1.609437912
+Bases;1.609437912
+Agent;1.609437912
+DARPA;1.609437912
+items;1.609437912
+notes;1.609437912
+CNTRO;1.609437912
+EPSRC;1.609437912
+EDOCW;1.609437912
+aggregates;1.535056729
+Assumption;1.535056729
+AI;1.386294361
+OKBC;1.386294361
+OCML;1.386294361
+Name;1.386294361
+Move;1.386294361
+base;1.386294361
+lack;1.386294361
+task;1.386294361
+Lode;1.386294361
+Note;1.386294361
+SEKT;1.386294361
+Role;1.386294361
+side;1.386294361
+EMEA;1.386294361
+Code;1.386294361
+AMIA;1.386294361
+path;1.386294361
+uses;1.386294361
+CycL;1.386294361
+Hour;1.386294361
+IWOD;1.386294361
+EDBT;1.386294361
+HPKB;1.386294361
+week;1.386294361
+SIOC;1.386294361
+LREC;1.386294361
+step;1.386294361
+hand;1.386294361
+tOWL;1.386294361
+Days;1.386294361
+tags;1.386294361
+root;1.386294361
+rule;1.386294361
+code;1.386294361
+BULO;1.386294361
+Base;1.386294361
+Term;1.386294361
+Year;1.386294361
+AnQL;1.386294361
+VLDB;1.386294361
+VCAD;1.386294361
+tool;1.386294361
+tree;1.386294361
+life;1.386294361
+CCSL;1.386294361
+SWWS;1.386294361
+CDNS;1.386294361
+Kernel ontology;1.354025101
+ending point;1.242453325
+Upper-Level;1.198947636
+PTL;1.098612289
+CYC;1.098612289
+UML;1.098612289
+URL;1.098612289
+WWW;1.098612289
+PSL;1.098612289
+FP7;1.098612289
+God;1.098612289
+ICT;1.098612289
+ITL;1.098612289
+KIF;1.098612289
+DOA;1.098612289
+ACL;1.098612289
+ber;1.098612289
+data type;1.098612289
+flow;0.924196241
+Group;0.804718956
+EU;0.693147181
+KR;0.693147181
+Kernel;0.597253156
+branching;0.549306144
+ER;0
+PhD;0
+map;0
+xsd;0
+OIL;0
+End;0
+DLs;0
+LTL;0
+key;0
+xml;0
+XML;0
+rdf;0
+arc;0
+laws;0
+axis;0
+user;0
+Part;0
+name;0
+idea;0
+word;0
+FOTL;0
+Lang;0
+jump;0
+Date;0
+vote;0
+CSPs;0
+role;0
+node;0
+Task;0
+Area;0
+core;0
+Week;0
+zone;0
+YAGO;0
+Vote;0
+Tree;0
+Sets;0
+Snap;0
+shift;0
+Tense;0
+axiom;0
+entry;0
+Robot;0
+Force;0
+trees;0
+block;0
+birth;0
+pages;0
+Goals;0
+score;0
+audio;0
+sorts;0
+check;0
+stamp;0
+roles;0
+right;0
+facet;0
+death;0
+bases;0
+scale;0
+grant;0
+limit;0
+Clock;0
+zones;0
+music;0
+match;0
+Middle;0
+facets;0
+stamps;0
+Report;0
+Region;0
+shapes;0
+shifts;0
+AKTive;0
+chains;0
+Centre;0
+factor;0
+Markup;0
+Object;0
+length;0
+agenda;0
+sphere;0
+tables;0
+TBoxes;0
+Sunday;0
+corpus;0
+Second;0
+Schema;0
+prolog;0
+season;0
+States;0
+timing;0
+sensor;0
+Expert;0
+schema;0
+Graphs;0
+cyclic;0
+window;0
+survey;0
+editor;0
+Engine;0
+endings;0
+dataset;0
+futures;0
+product;0
+degrees;0
+closure;0
+extents;0
+Queries;0
+efforts;0
+concern;0
+Regions;0
+engines;0
+Calculi;0
+Classes;0
+Algebra;0
+premise;0
+Storage;0
+quality;0
+Plug-in;0
+service;0
+SemData;0
+writing;0
+percent;0
+January;0
+modules;0
+Machine;0
+Fitness;0
+streams;0
+symbols;0
+Formats;0
+pattern;0
+gesture;0
+Domains;0
+Factors;0
+warping;0
+weekend;0
+quarter;0
+reading;0
+Distance;0
+symposia;0
+Saturday;0
+Analysis;0
+INTERVAL;0
+question;0
+Relation;0
+paradigm;0
+Modeling;0
+scenario;0
+sciences;0
+timeline;0
+time box;0
+searches;0
+progress;0
+rdf data;0
+datetime;0
+integers;0
+brackets;0
+manifold;0
+Software;0
+doctrine;0
+services;0
+Segments;0
+Timeline;0
+Behavior;0
+Subclass;0
+indexing;0
+interior;0
+ER model;0
+circuits;0
+solution;0
+software;0
+variable;0
+DateTime;0
+analyses;0
+thoughts;0
+Ordering;0
+algebras;0
+Patterns;0
+variants;0
+OWL-time;0
+Problems;0
+Internet;0
+fragment;0
+Decision;0
+Algebras;0
+Programs;0
+formulae;0
+December;0
+Sentiment;0
+Situation;0
+resources;0
+behaviors;0
+agreement;0
+sphere(s);0
+Time line;0
+deadlines;0
+footprint;0
+construct;0
+Locations;0
+Extension;0
+substrata;0
+detection;0
+distances;0
+Linearity;0
+namespace;0
+primitive;0
+properies;0
+PSI Suite;0
+Practices;0
+Positions;0
+Reference;0
+Libraries;0
+RDF Query;0
+Primitive;0
+ER models;0
+Integrity;0
+datatypes;0
+unit type;0
+exclusive;0
+engineers;0
+date/time;0
+Direction;0
+statement;0
+Community;0
+Computing;0
+long time;0
+increment;0
+overviews;0
+locations;0
+Retrieval;0
+Resources;0
+prototype;0
+endurants;0
+quantities;0
+revolution;0
+references;0
+narratives;0
+processing;0
+Valid time;0
+Aggregates;0
+XML-Schema;0
+compatible;0
+quantifier;0
+coordinate;0
+blank node;0
+propagator;0
+Tree Logic;0
+continuity;0
+employment;0
+Manchester;0
+Data Bases;0
+Investment;0
+lunch time;0
+sensor web;0
+postulates;0
+Saturation;0
+Quantities;0
+formalisms;0
+number set;0
+Collection;0
+finite set;0
+likelihood;0
+Narratives;0
+Consortium;0
+simulation;0
+Properties;0
+ONTOLOGIES;0
+Frameworks;0
+time slice;0
+management;0
+Entailment;0
+procedures;0
+primitives;0
+Extensions;0
+prediction;0
+Happenings;0
+Dense time;0
+named graph;0
+collections;0
+alternative;0
+No of terms;0
+interaction;0
+perspective;0
+working day;0
+Data Models;0
+transaction;0
+cardinality;0
+realization;0
+frequencies;0
+AKT Support;0
+hierarchies;0
+number sets;0
+Methodology;0
+Subalgebras;0
+distinction;0
+researchers;0
+lower bound;0
+elicitation;0
+Subsumption;0
+cyclic time;0
+Terminology;0
+correctness;0
+Time Logics;0
+Time Markup;0
+convex sets;0
+propagation;0
+differences;0
+expressions;0
+abstraction;0
+upper bound;0
+simulations;0
+Propagation;0
+Perspective;0
+Communities;0
+Commonsense;0
+Co-location;0
+data streams;0
+demonstrator;0
+time regions;0
+neighborhood;0
+opposite end;0
+common sense;0
+time warping;0
+dynamic time;0
+class axioms;0
+global clock;0
+timed series;0
+interval end;0
+dimension(s);0
+irregularity;0
+time Systems;0
+review paper;0
+bounded time;0
+accumulation;0
+Quality Data;0
+tense theory;0
+sub-ontology;0
+Descriptions;0
+working days;0
+set of terms;0
+Logic axioms;0
+verification;0
+technologies;0
+start points;0
+Environments;0
+relevant set;0
+subintervals;0
+basic models;0
+working time;0
+working week;0
+temporal data;0
+Proliferation;0
+indeterminism;0
+properties’;0
+non-convexity;0
+dynamic logic;0
+infinite time;0
+convex subset;0
+proliferation;0
+point algebra;0
+Dynamic Logic;0
+reusable time;0
+point of time;0
+logic formula;0
+logical clock;0
+purpose terms;0
+sub-intervals;0
+Specification;0
+query engines;0
+OWL reasoning;0
+formalization;0
+time of facts;0
+InnerInstants;0
+sub-chronoids;0
+AKTive Portal;0
+tractable set;0
+Data Analysis;0
+finite number;0
+XSD date/time;0
+transmutation;0
+metric aspect;0
+formal theory;0
+regular event;0
+Design Systems;0
+Design Process;0
+set of periods;0
+interval start;0
+General Theory;0
+formalizations;0
+New Generation;0
+Infrastructure;0
+fuzzy interval;0
+Knowledge Base;0
+Explicit clock;0
+sets of states;0
+Recommendation;0
+infinite cycle;0
+upper ontology;0
+Formalizations;0
+Fuzzy Interval;0
+moment of time;0
+satisfiability;0
+unbounded time;0
+Crisp Interval;0
+TemporalEntity;0
+Classification;0
+recommendation;0
+Theory of time;0
+consensual set;0
+digital system;0
+temporal model;0
+basic research;0
+multiplication;0
+basic theories;0
+computer system;0
+repeating event;0
+temporal entity;0
+time algorithms;0
+time-difference;0
+basic situation;0
+Markup Language;0
+fuzzy relations;0
+structural part;0
+bounded domains;0
+Knowledge Bases;0
+analytic review;0
+closed interval;0
+Polynomial time;0
+circular motion;0
+reasoning rules;0
+Selected Papers;0
+symposia series;0
+date comparison;0
+ending instants;0
+domains of time;0
+time coordinate;0
+discontinuities;0
+digital systems;0
+Structured Data;0
+logic languages;0
+existing models;0
+Formal theories;0
+term occurrence;0
+incidence theory;0
+multi-word terms;0
+time periodicity;0
+time expressions;0
+Classical Logics;0
+Internet Systems;0
+Interval Algebra;0
+structural parts;0
+implicit opinion;0
+Entailment Rules;0
+temporal context;0
+location in time;0
+interval algebra;0
+numerable aspect;0
+numerical values;0
+interval of time;0
+TimeLine concept;0
+embedded systems;0
+elements of time;0
+event occurrence;0
+evolving classes;0
+TIME proceedings;0
+run-time systems;0
+design processes;0
+Support Ontology;0
+Scale Investment;0
+type comparisons;0
+possible history;0
+term recognition;0
+specific domains;0
+time structuring;0
+applied research;0
+aspect of motion;0
+formal treatment;0
+aspect of nature;0
+characterization;0
+Natural language;0
+linear time model;0
+linearity of time;0
+bounded intervals;0
+Temporal ontology;0
+temporal querying;0
+unbounded domains;0
+temporal reasoner;0
+qualitative value;0
+temporal parthood;0
+collection slices;0
+purpose technique;0
+treatment of time;0
+consistency check;0
+coverage analysis;0
+coordinate system;0
+temporal contexts;0
+continuous domain;0
+uncertain endings;0
+incidence aspects;0
+Open Descriptions;0
+Querying Language;0
+thing with extent;0
+infinite sequence;0
+Factual Knowledge;0
+sets of intervals;0
+important subject;0
+spatial relations;0
+Ontological Model;0
+Knowledge Systems;0
+parthood relation;0
+Interval Calculus;0
+standard datatype;0
+validity interval;0
+High Quality Data;0
+Second Generation;0
+Semantic Web Data;0
+Spatial Reasoning;0
+scientific papers;0
+scholarly sources;0
+primitive relation;0
+predicate calculus;0
+prominent theories;0
+propagation delays;0
+non-negative reals;0
+roles constructors;0
+process simulation;0
+significant impact;0
+rich model of time;0
+signal propagation;0
+“tense” logics;0
+Calculus of Events;0
+feature extraction;0
+Theoretic Approach;0
+incidence theories;0
+views of the world;0
+Temporal Extension;0
+Temporal Integrity;0
+evolution analysis;0
+Tractable Subclass;0
+UniformSamplingMap;0
+Distributed Object;0
+connected boundary;0
+beginning instants;0
+Design Performance;0
+continuous systems;0
+direct predecessor;0
+transitive closure;0
+decidable fragment;0
+Engineering Design;0
+contribution peaks;0
+deep model of time;0
+Ontology evolution;0
+Advanced Knowledge;0
+Online Communities;0
+RDF Query Language;0
+Neighborhood logic;0
+mutually exclusive;0
+primitive relations;0
+employment relation;0
+temporal assertions;0
+precedence relation;0
+domains of interest;0
+dynamic engineering;0
+termhood comparison;0
+Engineering Systems;0
+neighborhood logics;0
+compliant solutions;0
+totally ordered set;0
+quantifiable aspect;0
+comparative account;0
+specific SWRL rules;0
+contiguous interval;0
+axioms constructors;0
+consistency problem;0
+OWL object property;0
+celestial sphere(s);0
+temporal employment;0
+Language Processing;0
+Quantities ontology;0
+periodicity in time;0
+triples of integers;0
+Suite of Ontologies;0
+high-level features;0
+impact of the paper;0
+uncertainty in time;0
+Semantic Annotation;0
+High-Level Features;0
+temporal frameworks;0
+temporal constraint;0
+ordered convex sets;0
+engineering systems;0
+“parallel” time;0
+understanding change;0
+Non-Classical Logics;0
+Reasoning Frameworks;0
+Descriptive Ontology;0
+Engineering Patterns;0
+Ontology Engineering;0
+Upper-Level Ontology;0
+representation model;0
+relational databases;0
+terminological logic;0
+recognition of terms;0
+application specific;0
+uncertain beginnings;0
+scientific knowledge;0
+worst case algorithm;0
+satisfaction problem;0
+upper-level ontology;0
+time representations;0
+Changing Information;0
+temporal realization;0
+Constraint Reasoning;0
+querying performance;0
+the state-of-the-art;0
+properties’ labels;0
+knowledge management;0
+jump discontinuities;0
+predecessor function;0
+compliant approaches;0
+membership functions;0
+clock temporal logic;0
+concurrent execution;0
+consistency checking;0
+classes constructors;0
+ordered set of states;0
+formal theory of time;0
+finite set of periods;0
+Representation System;0
+Integrity Constraints;0
+Automatic recognition;0
+closed under addition;0
+cyclic nature of time;0
+number of repetitions;0
+collection increments;0
+Linear Temporal Logic;0
+convex time intervals;0
+convex sets of states;0
+constraint propagator;0
+context of a property;0
+possible disjunctions;0
+time-stamped RDF data;0
+Cognitive Engineering;0
+Philosophy of Science;0
+time interval calculus;0
+manifold of space-time;0
+specification language;0
+object property axioms;0
+Propagation Algorithms;0
+irregularity of timing;0
+linear non-metric time;0
+Annotated Semantic Web;0
+Linear Temporal Logics;0
+basic theories of time;0
+Information Management;0
+finite sets of periods;0
+reasoning capabilities;0
+parameterized operator;0
+bounded time intervals;0
+Descriptions of Events;0
+Biomedical engineering;0
+implemented ontologies;0
+forward-branching time;0
+constraint satisfaction;0
+Logic of Time Intervals;0
+bounded domains of time;0
+branching discrete time;0
+branching model of time;0
+TIME proceedings series;0
+history of the universe;0
+existing basic theories;0
+point to point relation;0
+relations between points;0
+Terminology contribution;0
+requirements elicitation;0
+cycle of birth and death;0
+propositions over events;0
+annotation of properties;0
+annotation of ontologies;0
+characterization of time;0
+time interval structures;0
+Ontology of Environments;0
+endings of TimeIntervals;0
+engineering technologies;0
+expressive knowledge sets;0
+four-dimensional manifold;0
+descriptive formal theory;0
+complete possible history;0
+propositions over fluents;0
+object-oriented databases;0
+Theory of Action and Time;0
+Representation Frameworks;0
+description logic reasoner;0
+Temporal description logic;0
+sequence of time intervals;0
+Ontology Querying Language;0
+temporal description logic;0
+axiomatic characterization;0
+Engineering Design Process;0
+Entity Relationship models;0
+Entity-Relationship Models;0
+totally ordered convex sets;0
+relations between intervals;0
+Performance Knowledge Bases;0
+ontological representations;0
+Interval Neighborhood logic;0
+prominent temporal theories;0
+contiguous interval of time;0
+extracted temporal features;0
+convexity of time intervals;0
+beginnings of TimeIntervals;0
+strongly connected boundary;0
+periodic temporal structures;0
+finite number of repetitions;0
+formally representing change;0
+interval neighborhood logics;0
+engineering design processes;0
+Temporal Constraint Reasoning;0
+relative temporal realization;0
+ordered convex sets of states;0
+Modal Logic of Time Intervals;0
+first-order predicate calculus;0
+fuzzy relations between points;0
+non-standard “tense” logics;0
+the largest contiguous interval;0
+socio-cultural time expressions;0
+recognition of multi-word terms;0
+rule of 50 percent plus one vote;0
+possible history of the universe;0
+Time Representation and Reasoning;0
+Library of Foundational Ontologies;0
+hybrid discrete/continuous systems;0
+temporal description logic reasoner;0
+spatio-temporal representation model;0
+relations between points and intervals;0
+operator of relative temporal realization;0
+time system;-0.342556468
+fuzzy;-0.459839404
+scientific;-0.460517019
+time systems;-0.49698133
+computer;-0.519860385
+in time;-0.572326514
+First Order;-0.599473818
+Standard;-0.693147181
+DL;-0.693147181
+BT;-0.693147181
+Interval Relations;-0.722592939
+membership;-0.767528364
+time value;-0.767528364
+Entry;-0.804718956
+fluent;-0.895879735
+ordered;-0.898112376
+fuzziness in time;-0.944404448
+successor;-1.098612289
+temporal relation;-1.133285338
+modal logic;-1.198947636
+case complexity;-1.354025101
+totally ordered;-1.354025101
+real-time system;-1.386294361
+boundedness of time;-1.47221949
+temporal feature;-1.492932389
+point-based structure;-1.522261219
+sub-interval;-1.656604433
+real number;-1.798421455
+bag;-2.197224577
+basic time;-2.302585093
+Time-Entry;-2.302585093
+time-point;-2.302585093
+date value;-2.302585093
+total order;-2.397895273
+closed time;-2.397895273
+time element;-2.48490665
+time-interval;-2.564949357
+SWRL Temporal;-2.564949357
+parallel time;-2.564949357
+physical clock;-2.63905733
+n-ary relation;-2.63905733
+ordered triples;-2.708050201
+ternary relation;-2.772588722
+temporal operator;-2.833213344
+temporal aggregates;-2.944438979
+aggregates ontology;-2.944438979
+independent time lines;-3.091042453
+ontology specification;-3.091042453
+point-interval-based framework;-3.401197382
+Cadence;-3.891820298
+Semantic;-3.9399945
+Temporal Feature;-4.158883083
+Intelligence;-4.47283197
+4D fluent;-4.943755299
+OWL reasoner;-4.9698133
+Web standards;-5.129898715
+temporal element;-5.545177444
+Distributed System;-5.780743516
+Simulation Initiative;-6.089044875
+Performance Simulation;-6.182084907
+temporal interval;-7.08303336
+Allen’s relation;-8.671115274
+Description Logic;-9.207943368
+temporal aspect;-10.8322008
+Temporal Relation;-14.16606672
