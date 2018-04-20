@@ -1,0 +1,7 @@
+data/out/TM.txt
+data/out/TTerMine.txt
+data/out/terms.csv
+data/out/TTerMine.txt
+data/out/TM.txt
+data/out/terms.csv
+data/out/TM.txt

@@ -1,4 +1,3 @@
-
 # coding: utf-8
 
 # Implementation of the algorithm described by *Katerina Frantzi, Sophia Ananiadou, Hideki Mima*

@@ -175,12 +175,12 @@ data_files = []
 #-----------------------------------------------------------------------
 #'D:\WorkingExample/list_of_files_after_Termine.htm'
 
-infile = 'data/out/list.txt'
+infile = 'list.txt'
 
 with open(infile) as f:
     files = f.read().splitlines()
 
-fresult = open('data/out/results.csv','w')
+fresult = open('results.csv','w')
 
 printing_results (fresult)	
 

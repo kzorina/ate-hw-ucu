@@ -5,7 +5,8 @@ import pandas as pd
 import re
 import scipy
 from sklearn.feature_extraction.text import CountVectorizer
-
+import PyPDF2
+import textract
 
 # noun adj prep + ? ( ) * |
 class POSSequenceDetector:
@@ -244,3 +245,23 @@ class TermExtractor:
         return sorted(zip(term_series, c_values), key=lambda x: x[1], reverse=True)
     # sentences[0:10]
     # print self.stopwords
+'''
+
+
+
+
+'''
+def pdf2text(pdf_file_path):
+    
+    
+    page_text = textract.process(pdf_file_path)
+    
+    #pdf_file = open(pdf_file_path)
+    #read_pdf = PyPDF2.PdfFileReader(pdf_file)
+    #page_text=""
+    #for i in range(0,read_pdf.getNumPages()):
+    #    page = read_pdf.getPage(i)
+    #    page_text += page.extractText()
+    #pdf_file.close()
+    return page_text
+

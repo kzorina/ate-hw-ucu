@@ -1,7 +1,0 @@
-out/TM.txt
-out/TTerMine.txt
-out/terms.csv
-out/TTerMine.txt
-out/TM.txt
-out/terms.csv
-out/TM.txt

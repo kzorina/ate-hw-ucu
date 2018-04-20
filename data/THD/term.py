@@ -9,18 +9,18 @@ from operator import itemgetter
 
 def dict_creation(file):
 	for line in file.readlines():
-		nl = line.split(';',1)
-		keyterm = str(nl[0].rstrip())
-		data[keyterm] = float(nl[1])
+		nl = line.split(' ',2)
+		keyterm = str(nl[2].rstrip())
+		data[keyterm] = float(nl[0])
 #	print "%s Termhood length = " %file, len(data)
 	data2 = score_more_than_1(data)
 	return data2
 
 def dict_creation_file2(file):
 	for line in file.readlines():
-		nl = line.split(';', 1)
-		keyterm = str(nl[0].rstrip())
-		data[keyterm] = float(nl[1])
+		nl = line.split(' ', 2)
+		keyterm = str(nl[2].rstrip())
+		data[keyterm] = float(nl[0])
 	fresult.write("%s:"%len(data))
 #	print "%s Termhood length = " %file, len(data)
 	data2 = score_more_than_1(data)
@@ -175,12 +175,12 @@ data_files = []
 #-----------------------------------------------------------------------
 #'D:\WorkingExample/list_of_files_after_Termine.htm'
 
-infile = 'data/out/list.txt'
+infile = 'list.txt'
 
 with open(infile) as f:
     files = f.read().splitlines()
 
-fresult = open('data/out/results.csv','w')
+fresult = open('results.csv','w')
 
 printing_results (fresult)	
 
