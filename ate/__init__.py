@@ -3,10 +3,15 @@ from nltk.stem import WordNetLemmatizer
 import numpy as np
 import pandas as pd
 import re
+import random
 import scipy
 from sklearn.feature_extraction.text import CountVectorizer
-import PyPDF2
 import textract
+import PyPDF2
+
+from os import listdir
+from os.path import isfile, join, isdir
+
 
 # noun adj prep + ? ( ) * |
 class POSSequenceDetector:
@@ -152,6 +157,17 @@ class StopWordsDetector:
                 return []
 
 
+#fp = open(doc_file, "r")
+#doc_txt = fp.read() 
+#fp.close()
+#doc_txt = unicode(doc_txt, "utf-8", errors='ignore')
+#doc_txt = re.sub(r'et +al\.', 'et al', doc_txt)
+#doc_txt = re.split(r'[\r\n]', doc_txt)
+#
+#
+#term_extractor = ate.TermExtractor(stopwords=stopwords, term_patterns=term_patterns, min_term_words=min_term_words, min_term_length=min_term_length)
+#terms = term_extractor.extract_terms(doc_txt)
+#c_values = term_extractor.c_values(terms, trace=True)
 
 
 class TermExtractor:
@@ -252,16 +268,112 @@ class TermExtractor:
 
 '''
 def pdf2text(pdf_file_path):
-    
-    
-    page_text = textract.process(pdf_file_path)
-    
-    #pdf_file = open(pdf_file_path)
-    #read_pdf = PyPDF2.PdfFileReader(pdf_file)
-    #page_text=""
-    #for i in range(0,read_pdf.getNumPages()):
-    #    page = read_pdf.getPage(i)
-    #    page_text += page.extractText()
-    #pdf_file.close()
+    page_text = textract.process(pdf_file_path , encoding='ascii')    #
     return page_text
 
+def compose_datasets(txt_file_dir, dataset_file_dir, increment_size=1, increment_strategy='time-asc'):
+    # read txt files
+    txt_files=sorted([ join(txt_file_dir, f) for f in listdir(txt_file_dir) if isfile(join(txt_file_dir, f)) and f.lower().endswith(".txt")])
+    
+    # compose file lists
+    if increment_strategy=='time-asc':
+        cnt=0
+        n_dataset=0
+        dataset=''
+        for i in range(0,len(txt_files)):
+            fl=open(txt_files[i],'r')
+            dataset+=fl.read()
+            fl.close()
+            cnt+=1
+            if cnt%increment_size ==0:
+                n_dataset+=1
+                fnm=join(dataset_file_dir,'D'+ ( ('0000000000000000000000000000000000'+str(n_dataset))[:-15])+'.txt')
+                fl=open( fnm, w)
+                fl.write(dataset)
+                fl.close()
+
+    if increment_strategy=='time-desc':
+        txt_files=txt_files[::-1]
+        cnt=0
+        n_dataset=0
+        dataset=''
+        for i in range(0,len(txt_files)):
+            fl=open(txt_files[i],'r')
+            dataset+=fl.read()
+            fl.close()
+            cnt+=1
+            if cnt%increment_size ==0:
+                n_dataset+=1
+                fnm=join(dataset_file_dir,'D'+ ( ('0000000000000000000000000000000000'+str(n_dataset))[:-15])+'.txt')
+                fl=open( fnm, w)
+                fl.write(dataset)
+                fl.close()
+
+    if increment_strategy=='random':
+        txt_files=random.shuffle(txt_files)
+        cnt=0
+        n_dataset=0
+        dataset=''
+        for i in range(0,len(txt_files)):
+            fl=open(txt_files[i],'r')
+            dataset+=fl.read()
+            fl.close()
+            cnt+=1
+            if cnt%increment_size ==0:
+                n_dataset+=1
+                fnm=join(dataset_file_dir,'D'+ ( ('0000000000000000000000000000000000'+str(n_dataset))[:-15])+'.txt')
+                fl=open( fnm, w)
+                fl.write(dataset)
+                fl.close()
+
+    if increment_strategy=='time-bidir':
+        cnt=0
+        n_dataset=0
+        dataset=''
+        n_files=len(txt_files)
+        i_max=int(len(txt_files)/2)
+        for i1 in range(0,i_max):
+
+            fl=open(txt_files[i1],'r')
+            dataset+=fl.read()
+            fl.close()
+
+            i2=n_files-i-1
+            fl=open(txt_files[i2],'r')
+            dataset+=fl.read()
+            fl.close()
+
+            cnt+=2
+            if cnt%increment_size ==0:
+                n_dataset+=1
+                fnm=join(dataset_file_dir,'D'+ ( ('0000000000000000000000000000000000'+str(n_dataset))[:-15])+'.txt')
+                fl=open( fnm, w)
+                fl.write(dataset)
+                fl.close()
+
+
+
+# http://icteri.org/icteri-2018/pv1/10000003.pdf
+# T1,T2 - the bags of terms
+#    Each term T1.term
+#    is accompanied with its 
+#    T.n-score. T1, T2 are sorted in the descending order of T.n-score.
+#    inputs are two lists of tuples (term, score)
+def thd(_T1, _T2):
+    get_n_score=lambda x: x[1]
+    T1=sorted(_T1, reverse=True, key=get_n_score)
+    T2=sorted(_T2, reverse=True, key=get_n_score)
+    _sum=0
+    _thd=0
+    for k in range(0,len(T2)):
+        _sum += T2[k][1]
+        _found=False
+        for m in range(0,len(T1)):
+            if T2[k][0]==T1[m][0]:
+                _thd+=abs(T2[k][1]-T1[m][1])
+                _found=True
+        if not _found:
+            _thd+=T2[k][1]
+    _thdr=_thd/_sum
+    return (_thd, _thdr)
+    
