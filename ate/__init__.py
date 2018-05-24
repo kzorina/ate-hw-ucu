@@ -1,16 +1,17 @@
+import PyPDF2
 import nltk
 from nltk.stem import WordNetLemmatizer
 import numpy as np
+from os import listdir
+from os.path import isdir
+from os.path import isfile
+from os.path import join
 import pandas as pd
-import re
 import random
+import re
 import scipy
 from sklearn.feature_extraction.text import CountVectorizer
 import textract
-import PyPDF2
-
-from os import listdir
-from os.path import isfile, join, isdir
 
 
 # noun adj prep + ? ( ) * |
@@ -267,87 +268,101 @@ class TermExtractor:
 
 
 '''
-def pdf2text(pdf_file_path):
-    page_text = textract.process(pdf_file_path , encoding='ascii')    #
+def pdf_to_text_textract(pdf_file_path):
+    page_text = textract.process(pdf_file_path)    #, encoding='ascii'
     return page_text
+
+def pdf_to_text_pypdf(_pdf_file_path):	
+    pdf_content = PyPDF2.PdfFileReader(file(_pdf_file_path, "rb")) 
+        # 'Rb' Opens a file for reading only in binary format. 
+        # The file pointer is placed at the beginning of the file
+    text_extracted = "" # A variable to store the text extracted from the entire PDF
+	
+    for x in range(0, pdf_content.getNumPages()): # text is extracted page wise
+        pdf_text = ""  # A variable to store text extracted from a page
+        pdf_text = pdf_text + pdf_content.getPage(x).extractText() 
+        # Text is extracted from page 'x'
+        text_extracted = text_extracted + "".join(i for i in pdf_text if ord(i) < 128) + "\n\n\n"
+        # Non-Ascii characters are eliminated and text from each page is separated
+    return text_extracted
 
 def compose_datasets(txt_file_dir, dataset_file_dir, increment_size=1, increment_strategy='time-asc'):
     # read txt files
-    txt_files=sorted([ join(txt_file_dir, f) for f in listdir(txt_file_dir) if isfile(join(txt_file_dir, f)) and f.lower().endswith(".txt")])
+    txt_files = sorted([join(txt_file_dir, f) for f in listdir(txt_file_dir) if isfile(join(txt_file_dir, f)) and f.lower().endswith(".txt")])
     
     # compose file lists
-    if increment_strategy=='time-asc':
-        cnt=0
-        n_dataset=0
-        dataset=''
-        for i in range(0,len(txt_files)):
-            fl=open(txt_files[i],'r')
-            dataset+=fl.read()
+    if increment_strategy == 'time-asc':
+        cnt = 0
+        n_dataset = 0
+        dataset = ''
+        for i in range(0, len(txt_files)):
+            fl = open(txt_files[i], 'r')
+            dataset += fl.read()
             fl.close()
-            cnt+=1
-            if cnt%increment_size ==0:
-                n_dataset+=1
-                fnm=join(dataset_file_dir,'D'+ ( ('0000000000000000000000000000000000'+str(n_dataset))[:-15])+'.txt')
-                fl=open( fnm, w)
+            cnt += 1
+            if cnt % increment_size == 0:
+                n_dataset += 1
+                fnm = join(dataset_file_dir, 'D' + (('0000000000000000000000000000000000' + str(n_dataset))[:-15]) + '.txt')
+                fl = open(fnm, w)
                 fl.write(dataset)
                 fl.close()
 
-    if increment_strategy=='time-desc':
-        txt_files=txt_files[::-1]
-        cnt=0
-        n_dataset=0
-        dataset=''
-        for i in range(0,len(txt_files)):
-            fl=open(txt_files[i],'r')
-            dataset+=fl.read()
+    if increment_strategy == 'time-desc':
+        txt_files = txt_files[::-1]
+        cnt = 0
+        n_dataset = 0
+        dataset = ''
+        for i in range(0, len(txt_files)):
+            fl = open(txt_files[i], 'r')
+            dataset += fl.read()
             fl.close()
-            cnt+=1
-            if cnt%increment_size ==0:
-                n_dataset+=1
-                fnm=join(dataset_file_dir,'D'+ ( ('0000000000000000000000000000000000'+str(n_dataset))[:-15])+'.txt')
-                fl=open( fnm, w)
+            cnt += 1
+            if cnt % increment_size == 0:
+                n_dataset += 1
+                fnm = join(dataset_file_dir, 'D' + (('0000000000000000000000000000000000' + str(n_dataset))[:-15]) + '.txt')
+                fl = open(fnm, w)
                 fl.write(dataset)
                 fl.close()
 
-    if increment_strategy=='random':
-        txt_files=random.shuffle(txt_files)
-        cnt=0
-        n_dataset=0
-        dataset=''
-        for i in range(0,len(txt_files)):
-            fl=open(txt_files[i],'r')
-            dataset+=fl.read()
+    if increment_strategy == 'random':
+        txt_files = random.shuffle(txt_files)
+        cnt = 0
+        n_dataset = 0
+        dataset = ''
+        for i in range(0, len(txt_files)):
+            fl = open(txt_files[i], 'r')
+            dataset += fl.read()
             fl.close()
-            cnt+=1
-            if cnt%increment_size ==0:
-                n_dataset+=1
-                fnm=join(dataset_file_dir,'D'+ ( ('0000000000000000000000000000000000'+str(n_dataset))[:-15])+'.txt')
-                fl=open( fnm, w)
+            cnt += 1
+            if cnt % increment_size == 0:
+                n_dataset += 1
+                fnm = join(dataset_file_dir, 'D' + (('0000000000000000000000000000000000' + str(n_dataset))[:-15]) + '.txt')
+                fl = open(fnm, w)
                 fl.write(dataset)
                 fl.close()
 
-    if increment_strategy=='time-bidir':
-        cnt=0
-        n_dataset=0
-        dataset=''
-        n_files=len(txt_files)
-        i_max=int(len(txt_files)/2)
-        for i1 in range(0,i_max):
+    if increment_strategy == 'time-bidir':
+        cnt = 0
+        n_dataset = 0
+        dataset = ''
+        n_files = len(txt_files)
+        i_max = int(len(txt_files) / 2)
+        for i1 in range(0, i_max):
 
-            fl=open(txt_files[i1],'r')
-            dataset+=fl.read()
+            fl = open(txt_files[i1], 'r')
+            dataset += fl.read()
             fl.close()
 
-            i2=n_files-i-1
-            fl=open(txt_files[i2],'r')
-            dataset+=fl.read()
+            i2 = n_files-i-1
+            fl = open(txt_files[i2], 'r')
+            dataset += fl.read()
             fl.close()
 
-            cnt+=2
-            if cnt%increment_size ==0:
-                n_dataset+=1
-                fnm=join(dataset_file_dir,'D'+ ( ('0000000000000000000000000000000000'+str(n_dataset))[:-15])+'.txt')
-                fl=open( fnm, w)
+            cnt += 2
+            if cnt % increment_size == 0:
+                n_dataset += 1
+                fnm = join(dataset_file_dir, 'D' + (('0000000000000000000000000000000000' + str(n_dataset))[:-15]) + '.txt')
+                fl = open(fnm, w)
                 fl.write(dataset)
                 fl.close()
 
@@ -360,20 +375,20 @@ def compose_datasets(txt_file_dir, dataset_file_dir, increment_size=1, increment
 #    T.n-score. T1, T2 are sorted in the descending order of T.n-score.
 #    inputs are two lists of tuples (term, score)
 def thd(_T1, _T2):
-    get_n_score=lambda x: x[1]
-    T1=sorted(_T1, reverse=True, key=get_n_score)
-    T2=sorted(_T2, reverse=True, key=get_n_score)
-    _sum=0
-    _thd=0
-    for k in range(0,len(T2)):
+    get_n_score = lambda x: x[1]
+    T1 = sorted(_T1, reverse=True, key=get_n_score)
+    T2 = sorted(_T2, reverse=True, key=get_n_score)
+    _sum = 0
+    _thd = 0
+    for k in range(0, len(T2)):
         _sum += T2[k][1]
-        _found=False
-        for m in range(0,len(T1)):
-            if T2[k][0]==T1[m][0]:
-                _thd+=abs(T2[k][1]-T1[m][1])
-                _found=True
+        _found = False
+        for m in range(0, len(T1)):
+            if T2[k][0] == T1[m][0]:
+                _thd += abs(T2[k][1]-T1[m][1])
+                _found = True
         if not _found:
-            _thd+=T2[k][1]
-    _thdr=_thd/_sum
+            _thd += T2[k][1]
+    _thdr = _thd/_sum
     return (_thd, _thdr)
     

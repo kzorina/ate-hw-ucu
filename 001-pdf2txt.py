@@ -21,6 +21,11 @@ for f in pdf_files:
     fpath_out=join(txt_dir, f[1][:-4]+'.txt')
     print pdf_dir,'/',f[1],"=>", fpath_out
     ftxt = open(fpath_out,'w')
-    ftxt.write(ate.pdf2text(join(f[0], f[1])).replace("\n"," "))
+    try:
+        ftxt.write(ate.pdf_to_text_textract(join(f[0], f[1])).replace("\n"," "))
+    except TypeError:
+        print "error reading file "+ fpath_out
+    
+    #ftxt.write(ate.pdf_to_text_pypdf(join(f[0], f[1])).replace("\n"," "))
     ftxt.close()
 
