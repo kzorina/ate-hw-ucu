@@ -6,7 +6,7 @@ import ConfigParser
 import ate
 
 from os import listdir
-from os.path import isfile, join, isdir
+from os.path import isfile, join
 
 config = ConfigParser.ConfigParser()
 config.readfp(open('config.ini'))
