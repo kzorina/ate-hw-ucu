@@ -1,2 +1,0 @@
-out/TTerMine.txt
-out/TT.txt
