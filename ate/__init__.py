@@ -289,7 +289,7 @@ def pdf_to_text_pypdf(_pdf_file_path):
 def compose_datasets(txt_file_dir, dataset_file_dir, increment_size=1, increment_strategy='time-asc'):
     # read txt files
     txt_files = sorted([join(txt_file_dir, f) for f in listdir(txt_file_dir) if isfile(join(txt_file_dir, f)) and f.lower().endswith(".txt")])
-    
+    # print txt_files
     # compose file lists
     if increment_strategy == 'time-asc':
         cnt = 0
@@ -302,8 +302,9 @@ def compose_datasets(txt_file_dir, dataset_file_dir, increment_size=1, increment
             cnt += 1
             if cnt % increment_size == 0:
                 n_dataset += 1
-                fnm = join(dataset_file_dir, 'D' + (('0000000000000000000000000000000000' + str(n_dataset))[:-15]) + '.txt')
-                fl = open(fnm, w)
+                fnm = join(dataset_file_dir, 'D' + (('0000000000000000000000000000000000' + str(n_dataset))[-10:]) + '.txt')
+                print n_dataset, fnm
+                fl = open(fnm, 'w')
                 fl.write(dataset)
                 fl.close()
 
@@ -319,13 +320,14 @@ def compose_datasets(txt_file_dir, dataset_file_dir, increment_size=1, increment
             cnt += 1
             if cnt % increment_size == 0:
                 n_dataset += 1
-                fnm = join(dataset_file_dir, 'D' + (('0000000000000000000000000000000000' + str(n_dataset))[:-15]) + '.txt')
-                fl = open(fnm, w)
+                fnm = join(dataset_file_dir, 'D' + (('0000000000000000000000000000000000' + str(n_dataset))[-10:]) + '.txt')
+                fl = open(fnm, 'w')
                 fl.write(dataset)
                 fl.close()
 
     if increment_strategy == 'random':
-        txt_files = random.shuffle(txt_files)
+        #txt_files = 
+        random.shuffle(txt_files)
         cnt = 0
         n_dataset = 0
         dataset = ''
@@ -336,8 +338,8 @@ def compose_datasets(txt_file_dir, dataset_file_dir, increment_size=1, increment
             cnt += 1
             if cnt % increment_size == 0:
                 n_dataset += 1
-                fnm = join(dataset_file_dir, 'D' + (('0000000000000000000000000000000000' + str(n_dataset))[:-15]) + '.txt')
-                fl = open(fnm, w)
+                fnm = join(dataset_file_dir, 'D' + (('0000000000000000000000000000000000' + str(n_dataset))[-10:]) + '.txt')
+                fl = open(fnm, 'w')
                 fl.write(dataset)
                 fl.close()
 
@@ -353,7 +355,7 @@ def compose_datasets(txt_file_dir, dataset_file_dir, increment_size=1, increment
             dataset += fl.read()
             fl.close()
 
-            i2 = n_files-i-1
+            i2 = n_files-i1-1
             fl = open(txt_files[i2], 'r')
             dataset += fl.read()
             fl.close()
@@ -361,11 +363,10 @@ def compose_datasets(txt_file_dir, dataset_file_dir, increment_size=1, increment
             cnt += 2
             if cnt % increment_size == 0:
                 n_dataset += 1
-                fnm = join(dataset_file_dir, 'D' + (('0000000000000000000000000000000000' + str(n_dataset))[:-15]) + '.txt')
-                fl = open(fnm, w)
+                fnm = join(dataset_file_dir, 'D' + (('0000000000000000000000000000000000' + str(n_dataset))[-10:]) + '.txt')
+                fl = open(fnm, 'w')
                 fl.write(dataset)
                 fl.close()
-
 
 
 # http://icteri.org/icteri-2018/pv1/10000003.pdf
