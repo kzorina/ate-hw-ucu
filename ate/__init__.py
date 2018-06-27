@@ -1,5 +1,7 @@
 import PyPDF2
 import nltk
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
 from nltk.stem import WordNetLemmatizer
 import numpy as np
 from os import listdir
@@ -184,7 +186,7 @@ class TermExtractor:
             
         self.swd = StopWordsDetector(self.stopwords)
         
-    def extract_terms(self, doc_txt):
+    def extract_terms(self, doc_txt, verbose = True):
         sent_tokenize_list = filter(lambda x: len(x) > 0, map(lambda s: nltk.tokenize.sent_tokenize(s), doc_txt))
         sentences = []
         _ = [sentences.extend(lst) for lst in sent_tokenize_list]
@@ -204,7 +206,8 @@ class TermExtractor:
             	stn = filter(filter_fn, [' '.join(t) for t in fsa1.detect(sent_pos_tags) if len(t) >= self.min_term_words and len(self.swd.detect(t)) == 0])
                 sentence_terms.update(stn)
             terms.extend(sentence_terms)
-            print i, '/', max_i, s
+            if verbose:
+                print i, '/', max_i, s
             i = i + 1
         return terms
     
