@@ -41,21 +41,32 @@ def jaro_sim(word1, word2):
 
         return float((m/s1 + m/s2 + (m-t)/m)/3)
 
-def term_grouping(terms):
-    terms = terms
-    threshold = 0.8
-    sum = 0
-    for k in range(len(terms)):
-        term = str(terms.iloc[[k]]["term"].tolist()[0])
 
-        #temp = terms.iloc[[k]]
+def term_grouping(terms, threshold=0.7):
+    terms = terms
+    max_sim = 0
+    sum = 0
+    length = len(terms)
+    k = 0
+    while k < length:
+        term = str(terms.iloc[[k]]["term"].tolist()[0])
         score = float(terms.iloc[[k]]["num"])
         count = 1
-        for j in range(k+1,len(terms)):
-            if jaro_sim(term, str(terms.iloc[[j]]["term"].tolist()[0])) > threshold:
+        j = k + 1
+        while j < length:
+            similarity = jaro_sim(term, str(terms.iloc[[j]]["term"].tolist()[0]))
+            if similarity > max_sim:
+                max_sim = similarity
+            if similarity > threshold:
+                # print("Similar: {} and {} terms".format(k, j))
                 score += float(terms.iloc[[j]]["num"])
-                #remove terms[j]
-                terms.drop(terms.index[j])
-                count +=1
-        terms.iloc[[k]]["num"] = score/count
+                # remove terms[j]
+                terms = terms.drop(terms.index[j])
+                length = len(terms)
+                count += 1
+            j += 1
+
+        terms.iloc[[k]]["num"] = score / count
+        k += 1
+    #print("Max similarity: {}".format(max_sim))
     return terms

@@ -42,7 +42,7 @@ term_extractor = ate.TermExtractor(stopwords=stopwords, term_patterns=term_patte
 
 print("Stage 1. Reading from PDF and cleaning") # time = 541.463303506 s
 start = timeit.default_timer()
-read_to_clean(pdf_folder, clean_txt_folder)
+#read_to_clean(pdf_folder, clean_txt_folder)
 stop = timeit.default_timer()
 print("Elapsed time: {} s".format(stop-start))
 
@@ -90,11 +90,11 @@ if compare_to_c_value:
 
 
 print("Stage 4. Term grouping")
-print("Term length before groupint = {}".format(len(my_ate_terms_df)))
+print("Term length before grouping = {}".format(len(my_ate_terms_df)))
 start = timeit.default_timer()
-my_grouped_terms_df = term_grouping(my_ate_terms_df)
+#my_grouped_terms_df = term_grouping(my_ate_terms_df)
 stop = timeit.default_timer()
-print("Term length before groupint = {}".format(len(my_grouped_terms_df)))
+#print("Term length after grouping = {}".format(len(my_grouped_terms_df)))
 print("Elapsed time: {} s".format(stop-start))
 
 print("Stage 5. THD Pipeline")
