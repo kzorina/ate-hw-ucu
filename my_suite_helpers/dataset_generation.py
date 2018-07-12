@@ -26,8 +26,9 @@ def dataset_genreator(order, num_input, clean_txt_dir):
     # print(to_process)
     large_text = ""
     for file in to_process:
+
         with open(join(clean_txt_dir, file)) as txt_file:
-            # print("File {} text".format(file))
+            #print("File {}".format(file))
             text = txt_file.read()
             large_text += text
     large_text = unicode(large_text, "utf-8", errors='ignore')
